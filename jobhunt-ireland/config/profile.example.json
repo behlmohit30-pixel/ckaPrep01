@@ -1,0 +1,399 @@
+{
+ "_note": "EXAMPLE profile (fictional person). Copy to private/profile.json and replace every value with your own facts.",
+ "name": "Alex Example",
+ "email": "alex@example.com",
+ "linkedin": "linkedin.com/in/alex-example",
+ "home": "Limerick",
+ "spelling": "Irish/British English",
+ "years": {
+  "tech_support": 6,
+  "all_paid_work": 8
+ },
+ "work_auth": {
+  "stamp": "1G",
+  "expiry": "[[date]]",
+  "short": "Stamp 1G: entitled to work full-time in Ireland now; will need an employer-sponsored permit before it ends.",
+  "long": "I hold Stamp 1G. I can work full-time in Ireland now and will need a sponsored permit later."
+ },
+ "salary": {
+  "floor_eur": 90000,
+  "rule": "Flag, never filter."
+ },
+ "scope": {
+  "want": "Technical support and infrastructure roles in the Republic of Ireland.",
+  "where": "Anywhere in ROI",
+  "not_wanted": "sales, software engineering, non-English roles",
+  "must_include_rx": "examplecorp|google",
+  "location_note": "Lives in Limerick."
+ },
+ "experience": [
+  {
+   "org": "ExampleSoft, Ireland",
+   "title": "Senior Technical Support Engineer",
+   "dates": "01/2021 - 09/2025",
+   "note": "P1 incidents"
+  }
+ ],
+ "education": [
+  "MSc Cybersecurity (example)"
+ ],
+ "certs": [
+  "CKA (example)"
+ ],
+ "metrics": [
+  "400+ critical cases",
+  "98% CSAT"
+ ],
+ "skills": [
+  {
+   "name": "Enterprise incident / escalation ownership",
+   "rx": "incident|escalat|p1\\b|sev(erity)? ?1|war ?room|major incident|production[- ]down|outage",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Root cause analysis",
+   "rx": "root[- ]cause|\\brca\\b|post[- ]?mortem|retrospective|problem management",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "VMware vSphere / ESXi / vCenter",
+   "rx": "vmware|vsphere|esxi|vcenter|vmotion|vcf\\b",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Virtualisation",
+   "rx": "virtuali[sz]|hypervisor|\\bvms?\\b|virtual machine",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Windows Server / Active Directory",
+   "rx": "windows server|active directory|\\bgpo\\b|group policy|\\bad\\b ",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Networking troubleshooting (TCP/IP, DNS, DHCP, VPN)",
+   "rx": "tcp/?ip|\\bdns\\b|dhcp|\\bvpn\\b|radius|network(ing)? troubleshoot|load balanc|wireshark|packet capture",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Customer communication / CSAT",
+   "rx": "customer[- ]facing|csat|customer satisfaction|stakeholder|communicat",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Knowledge base / runbooks",
+   "rx": "knowledge base|\\bkb\\b|runbook|documentation|playbook",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Team lead / mentoring",
+   "rx": "mentor|coach|lead (a |the )?team|train(ing)? (new )?engineers",
+   "level": "strong",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Kubernetes",
+   "rx": "kubernetes|\\bk8s\\b|\\bcka\\b|kubectl|tanzu|\\bvks\\b|\\btkg\\b|containers? orchestration",
+   "level": "medium",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Containers / Docker",
+   "rx": "container|docker",
+   "level": "medium",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "AWS",
+   "rx": "\\baws\\b|amazon web services|\\bec2\\b|cloudwatch",
+   "level": "medium",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Security / MFA / IAM",
+   "rx": "security|\\bmfa\\b|authenticat|\\biam\\b|sso\\b|rbac",
+   "level": "medium",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Bash scripts",
+   "rx": "\\bbash\\b|shell script|scripting",
+   "level": "medium",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Storage (CNS/CSI, vSAN basics)",
+   "rx": "storage|\\bsan\\b|\\bnas\\b|\\bcsi\\b|vsan|iscsi|fibre channel|block storage",
+   "level": "medium",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Linux",
+   "rx": "linux|unix|rhel|ubuntu|systemd",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Python",
+   "rx": "python",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "SQL / databases",
+   "rx": "\\bsql\\b|postgres|mysql|oracle db|mongodb|nosql|database",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "REST APIs / API debugging",
+   "rx": "rest(ful)? api|\\bapis?\\b|postman|curl\\b|webhook|graphql|oauth|jwt",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Observability tools",
+   "rx": "datadog|prometheus|grafana|splunk|\\belk\\b|elastic|dynatrace|new relic|pagerduty|opsgenie",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Infrastructure as code / CI-CD",
+   "rx": "terraform|ansible|cloudformation|\\bci/?cd\\b|jenkins|argo ?cd|flux|helm|gitops",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "GCP / Azure hands-on",
+   "rx": "\\bgcp\\b|google cloud|\\bgke\\b|azure|\\baks\\b",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "Programming (Go/Java/JS/C#)",
+   "rx": "\\bgolang\\b|\\bgo\\b(?! to)|java(script)?|typescript|c#|c\\+\\+|node\\.?js",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  },
+  {
+   "name": "ITSM tools",
+   "rx": "servicenow|jira|itil|zendesk|salesforce service cloud",
+   "level": "weak",
+   "evidence": "[your evidence for this skill]"
+  }
+ ],
+ "never_claim": [
+  {
+   "rx": "terraform|\\bgo\\b(?! to)",
+   "why": "No evidence yet."
+  },
+  {
+   "rx": "automated\\b",
+   "why": "Say 'ran and adapted'."
+  }
+ ],
+ "stories": [
+  {
+   "id": "p1-warroom",
+   "tags": [
+    "incident",
+    "escalation",
+    "p1",
+    "pressure",
+    "stakeholder",
+    "leadership",
+    "outage"
+   ],
+   "title": "Owning a P1 incident",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "repeat-incidents",
+   "tags": [
+    "rca",
+    "process",
+    "kb",
+    "improvement",
+    "prevention",
+    "documentation"
+   ],
+   "title": "Cutting repeat incidents",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "k8s-recovery",
+   "tags": [
+    "kubernetes",
+    "containers",
+    "troubleshooting",
+    "upgrade",
+    "certificates",
+    "etcd",
+    "platform"
+   ],
+   "title": "Recovering a Kubernetes cluster",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "csat",
+   "tags": [
+    "customer",
+    "communication",
+    "csat",
+    "difficult customer",
+    "stakeholder"
+   ],
+   "title": "Keeping a difficult customer's trust",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "interim-lead",
+   "tags": [
+    "leadership",
+    "mentoring",
+    "team",
+    "prioritisation",
+    "conflict"
+   ],
+   "title": "Leading or mentoring a team",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "lab-repro",
+   "tags": [
+    "troubleshooting",
+    "windows",
+    "networking",
+    "active directory",
+    "dns",
+    "reproduce",
+    "engineering"
+   ],
+   "title": "Reproducing an issue with engineering",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "data-investigation",
+   "tags": [
+    "logs",
+    "data",
+    "incident",
+    "banking",
+    "mfa",
+    "authentication",
+    "agile"
+   ],
+   "title": "Investigating a live data discrepancy",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "study-project",
+   "tags": [
+    "kubernetes",
+    "security",
+    "python",
+    "aws",
+    "admission",
+    "supply chain",
+    "learning"
+   ],
+   "title": "Study project you can explain end to end",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "volunteering",
+   "tags": [
+    "volunteering",
+    "organisation",
+    "event",
+    "community",
+    "initiative"
+   ],
+   "title": "Volunteering or community lead",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  },
+  {
+   "id": "certification",
+   "tags": [
+    "learning",
+    "growth",
+    "kubernetes",
+    "time management",
+    "motivation",
+    "certification"
+   ],
+   "title": "Earning a certification while working",
+   "star": "S: ... T: ... A: ... R: ... (your real example)"
+  }
+ ],
+ "cv_variants": [
+  {
+   "id": "examplecorp",
+   "company_rx": "examplecorp",
+   "title_rx": ".",
+   "file": "cv/ExampleCorp.pdf"
+  },
+  {
+   "id": "main",
+   "default": true,
+   "file": "cv/Main_CV.pdf"
+  }
+ ],
+ "screening": {
+  "right_to_work_now": "Yes",
+  "need_sponsorship_future": "Yes",
+  "work_auth_text": "Stamp 1G: entitled to work full-time now.",
+  "years_experience": "About 6 years",
+  "eight_plus_years_question": "Answer honestly.",
+  "notice_period": "[[notice]]",
+  "salary_expectation": "[[per role]]",
+  "office_days": "[[yes/no]]"
+ },
+ "caps": [
+  {
+   "company_rx": "examplecorp",
+   "max": 2,
+   "days": 30,
+   "note": "ExampleCorp allows 2 applications in 30 days"
+  }
+ ],
+ "referral_rules": [
+  {
+   "company_rx": "refco",
+   "title_rx": "platform",
+   "rule": "Referral only: do NOT apply on the portal yourself."
+  }
+ ],
+ "weekly_targets": {
+  "applications": 8,
+  "referral_asks": 4,
+  "followups_sent": 4,
+  "networking_conversations": 2,
+  "agency_contacts": 1,
+  "lab_hours": 5
+ },
+ "open_questions": [
+  "(your open facts)"
+ ],
+ "pitch": {
+  "lead": "For six years I have owned P1 incidents for enterprise customers.",
+  "kubernetes": "I support Kubernetes clusters and hold the CKA.",
+  "incident": "I ran the incident bridges and wrote the RCA documents.",
+  "sysops": "I run and upgrade virtualisation estates.",
+  "security": "",
+  "metrics": "I closed 400+ critical cases with 98% CSAT.",
+  "work_auth": "I hold Stamp 1G, so I can start full-time now.",
+  "fit_line": "My incident and Kubernetes background fits it closely.",
+  "recruiter_pitch": "Senior support engineer: P1 incidents and Kubernetes (CKA).",
+  "followup_detail": "my incident and Kubernetes work"
+ },
+ "prep_material": ""
+}

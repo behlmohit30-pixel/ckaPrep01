@@ -1,0 +1,1581 @@
+{
+ "_note": "Public source list and filters (v2 config.json of 9 Oct 2026, 127 sources tested). Referrers live in private/referrers.json.",
+ "title_include": "support|technical services engineer|technical solutions|solutions engineer|customer (experience|reliability|success) engineer|customer engineer|escalation|site reliability|\\bSRE\\b|devops|platform engineer|infrastructure (engineer|specialist|support)|cloud (engineer|support|operations)|systems engineer|kubernetes|vmware|virtuali[sz]ation|technical account manager|\\bTAM\\b|incident|production (engineer|support)|operations engineer|\\bNOC\\b|service engineer|designated services|reliability|designated support|customer success engineer|support account manager|systems administrator|virtuali[sz]ation engineer|infrastructure consultant",
+ "title_exclude": "\\bsales\\b|account executive|business development|\\bBDR\\b|\\bSDR\\b|\\bintern(ship)?\\b|apprentice|counsel|legal|recruit|marketing|payroll|accountant|manufacturing|technician|lithography|mechanical|electrical|software (development )?engineer|machine learning|data scientist|\\bdirector\\b|vice president|\\bVP\\b|head of|german|french|spanish|italian|dutch|nordic|danish|swedish|norwegian|finnish|polish|portuguese|hebrew|arabic|turkish|japanese|korean|mandarin|chinese|cantonese|czech|hungarian|greek|russian|lithuanian|latvian|estonian|romanian|ukrainian|vietnamese|thai|hindi|benelux|dach|iberia|speaking|speakers?|fluen|cad|field service|facilit|control systems|robotics|power shelf|event support|qual support|test solutions|embedded|hygiene|security service",
+ "location_include": "ireland|dublin|cork|limerick|galway|shannon|athlone|waterford|leixlip|kildare|kilkenny|sligo|letterkenny|dundalk|drogheda|wexford|carlow|tralee|ennis|nenagh|naas|swords|\\bIRL\\b|\\bIE\\b",
+ "location_exclude": "belfast|northern ireland|derry|londonderry",
+ "greenhouse": {
+  "anthropic": "Anthropic",
+  "stripe": "Stripe",
+  "mongodb": "MongoDB",
+  "datadog": "Datadog",
+  "intercom": "Intercom",
+  "elastic": "Elastic",
+  "gitlab": "GitLab",
+  "okta": "Okta",
+  "squarespace": "Squarespace",
+  "toast": "Toast",
+  "dropbox": "Dropbox",
+  "twilio": "Twilio",
+  "purestorage": "Pure Storage",
+  "pinterest": "Pinterest",
+  "coinbase": "Coinbase",
+  "workato": "Workato",
+  "tines": "Tines",
+  "flipdish": "Flipdish",
+  "zoominfo": "ZoomInfo",
+  "klaviyo": "Klaviyo",
+  "cloudflare": "Cloudflare",
+  "samsara": "Samsara",
+  "braze": "Braze",
+  "smartsheet": "Smartsheet",
+  "qualtrics": "Qualtrics"
+ },
+ "ashby": {
+  "openai": "OpenAI",
+  "wayflyer": "Wayflyer",
+  "vanta": "Vanta"
+ },
+ "lever": {},
+ "workday": [
+  [
+   "workday.wd5.myworkdayjobs.com",
+   "workday",
+   "Workday",
+   "Workday"
+  ],
+  [
+   "salesforce.wd12.myworkdayjobs.com",
+   "salesforce",
+   "External_Career_Site",
+   "Salesforce"
+  ],
+  [
+   "mastercard.wd1.myworkdayjobs.com",
+   "mastercard",
+   "CorporateCareers",
+   "Mastercard"
+  ],
+  [
+   "intel.wd1.myworkdayjobs.com",
+   "intel",
+   "External",
+   "Intel"
+  ],
+  [
+   "broadcom.wd1.myworkdayjobs.com",
+   "broadcom",
+   "External_Career",
+   "Broadcom (VMware)"
+  ],
+  [
+   "analogdevices.wd1.myworkdayjobs.com",
+   "analogdevices",
+   "External",
+   "Analog Devices"
+  ],
+  [
+   "ntrs.wd1.myworkdayjobs.com",
+   "ntrs",
+   "northerntrust",
+   "Northern Trust"
+  ],
+  [
+   "fiserv.wd5.myworkdayjobs.com",
+   "fiserv",
+   "EXT",
+   "Fiserv"
+  ],
+  [
+   "redhat.wd5.myworkdayjobs.com",
+   "redhat",
+   "jobs",
+   "Red Hat"
+  ],
+  [
+   "crowdstrike.wd5.myworkdayjobs.com",
+   "crowdstrike",
+   "crowdstrikecareers",
+   "CrowdStrike"
+  ],
+  [
+   "adobe.wd5.myworkdayjobs.com",
+   "adobe",
+   "external_experienced",
+   "Adobe"
+  ],
+  [
+   "paypal.wd1.myworkdayjobs.com",
+   "paypal",
+   "jobs",
+   "PayPal"
+  ],
+  [
+   "autodesk.wd1.myworkdayjobs.com",
+   "autodesk",
+   "Ext",
+   "Autodesk"
+  ],
+  [
+   "hpe.wd5.myworkdayjobs.com",
+   "hpe",
+   "Jobsathpe",
+   "HPE"
+  ],
+  [
+   "zendesk.wd1.myworkdayjobs.com",
+   "zendesk",
+   "zendesk",
+   "Zendesk"
+  ]
+ ],
+ "workday_queries": [
+  "support",
+  "technical support",
+  "reliability",
+  "customer engineer",
+  "escalation",
+  "infrastructure"
+ ],
+ "smartrecruiters": {
+  "ServiceNow": "ServiceNow"
+ },
+ "amazon_queries": [
+  "support engineer",
+  "cloud support",
+  "technical account manager",
+  "systems engineer",
+  "site reliability",
+  "systems development engineer"
+ ],
+ "microsoft_queries": [
+  "support engineer",
+  "customer experience engineer",
+  "escalation engineer",
+  "technical support",
+  "site reliability",
+  "support escalation"
+ ],
+ "google_queries": [
+  "technical solutions engineer",
+  "support",
+  "site reliability",
+  "technical account manager",
+  "customer engineer",
+  "technical solutions consultant"
+ ],
+ "jobsie_searches": [
+  "technical-support-engineer",
+  "support-engineer",
+  "cloud-support-engineer",
+  "site-reliability-engineer",
+  "application-support",
+  "kubernetes",
+  "vmware",
+  "infrastructure-engineer",
+  "devops-engineer"
+ ],
+ "feeds": [
+  {
+   "brand": "Vodafone",
+   "adapter": "eightfold",
+   "params": {
+    "variant": "pcsx",
+    "search_url": "https://jobs.vodafone.com/api/pcsx/search?domain=vodafone.com&query={q}&location=Ireland&start=0&num=20",
+    "job_url_prefix": "https://jobs.vodafone.com"
+   },
+   "enabled": true,
+   "careers_url": "https://jobs.vodafone.com/careers?domain=vodafone.com",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 12
+  },
+  {
+   "brand": "Genpact",
+   "adapter": "workday",
+   "params": {
+    "host": "genpact.wd108.myworkdayjobs.com",
+    "tenant": "genpact",
+    "site": "External_Careers"
+   },
+   "enabled": true,
+   "careers_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers",
+   "irish_sites": "",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "Workhuman",
+   "adapter": "ashby",
+   "params": {
+    "slug": "workhuman"
+   },
+   "enabled": true,
+   "careers_url": "https://www.workhuman.com/careers/",
+   "irish_sites": "Dublin (HQ)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 5
+  },
+  {
+   "brand": "AMD (Xilinx)",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://careers.amd.com/api/jobs?keywords={q}&country=Ireland&page=1&limit=100",
+    "body": null,
+    "list_path": "jobs",
+    "title": "data.title",
+    "location": "data.full_location",
+    "id": "data.req_id",
+    "url_field": "",
+    "url_template": "https://careers.amd.com/careers-home/jobs/{id}?lang=en-us",
+    "headers": {
+     "Accept-Language": "en-US,en;q=0.9"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://careers.amd.com/careers-home/jobs?country=Ireland",
+   "irish_sites": "Dublin, Cork",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 9
+  },
+  {
+   "brand": "Oracle",
+   "adapter": "oracle_hcm",
+   "params": {
+    "host": "eeho.fa.us2.oraclecloud.com",
+    "site": "CX_45001",
+    "location_id": "300000000106938"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.oracle.com/",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 7
+  },
+  {
+   "brand": "Arista Networks",
+   "adapter": "smartrecruiters",
+   "params": {
+    "company": "AristaNetworks"
+   },
+   "enabled": true,
+   "careers_url": "https://www.arista.com/en/careers",
+   "irish_sites": "Dublin, Shannon",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 15
+  },
+  {
+   "brand": "2K Games",
+   "adapter": "greenhouse",
+   "params": {
+    "slug": "2k"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.2k.com/",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 3
+  },
+  {
+   "brand": "Logitech",
+   "adapter": "workday",
+   "params": {
+    "host": "logitech.wd5.myworkdayjobs.com",
+    "tenant": "logitech",
+    "site": "Logitech"
+   },
+   "enabled": true,
+   "careers_url": "https://logitech.wd5.myworkdayjobs.com/Logitech",
+   "irish_sites": "Cork",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 17
+  },
+  {
+   "brand": "SOTI",
+   "adapter": "workday",
+   "params": {
+    "host": "soti.wd3.myworkdayjobs.com",
+    "tenant": "soti",
+    "site": "Careers"
+   },
+   "enabled": true,
+   "careers_url": "https://soti.wd3.myworkdayjobs.com/Careers",
+   "irish_sites": "Galway",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 5
+  },
+  {
+   "brand": "SITA",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://careers.sita.aero/api/jobs?keywords={q}&country=Ireland&page=1&limit=100",
+    "body": null,
+    "list_path": "jobs",
+    "title": "data.title",
+    "location": "data.full_location",
+    "id": "data.req_id",
+    "url_field": "",
+    "url_template": "https://careers.sita.aero/jobs/{id}?lang=en-us",
+    "headers": {
+     "Accept-Language": "en-US,en;q=0.9"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://careers.sita.aero/",
+   "irish_sites": "Letterkenny",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 1
+  },
+  {
+   "brand": "Remote Management Technology",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://apply.remote.com/api/public/jobs",
+    "body": null,
+    "list_path": "jobs",
+    "title": "title",
+    "location": "location",
+    "id": "public_id",
+    "url_field": "",
+    "url_template": "https://apply.remote.com/jobs/{id}",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://remote.com/careers",
+   "irish_sites": "Cork (registered office Penrose Dock); roles are fully remote",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "DocuSign",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://careers.docusign.com/api/jobs?keywords={q}&country=Ireland&page=1&limit=100",
+    "body": null,
+    "list_path": "jobs",
+    "title": "data.title",
+    "location": "data.full_location",
+    "id": "data.req_id",
+    "url_field": "",
+    "url_template": "https://careers.docusign.com/careers-home/jobs/{id}?lang=en-us",
+    "headers": {
+     "Accept-Language": "en-US,en;q=0.9"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://careers.docusign.com/",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 24
+  },
+  {
+   "brand": "Guidewire",
+   "adapter": "workday",
+   "params": {
+    "host": "guidewire.wd5.myworkdayjobs.com",
+    "tenant": "guidewire",
+    "site": "external"
+   },
+   "enabled": true,
+   "careers_url": "https://guidewire.wd5.myworkdayjobs.com/external",
+   "irish_sites": "Dublin, Remote (Ireland)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 12
+  },
+  {
+   "brand": "DXC Technology",
+   "adapter": "workday",
+   "params": {
+    "host": "dxctechnology.wd1.myworkdayjobs.com",
+    "tenant": "dxctechnology",
+    "site": "DXCJobs"
+   },
+   "enabled": true,
+   "careers_url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
+   "irish_sites": "Galway, Dublin (per legal entities; no current postings)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "HP",
+   "adapter": "workday",
+   "params": {
+    "host": "hp.wd5.myworkdayjobs.com",
+    "tenant": "hp",
+    "site": "ExternalCareerSite"
+   },
+   "enabled": true,
+   "careers_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
+   "irish_sites": "Dublin (also Galway entity)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 6
+  },
+  {
+   "brand": "Synopsys",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://careers.synopsys.com/search-jobs/Ireland",
+    "item_regex": "class=\"sr-job-link\" href=\"(?P<path>/job/[^\"]+/(?P<id>\\d+))\" data-job-id=\"\\d+\">\\s*<h2>(?P<title>[^<]+?)<img.*?class=\"job-location\"><img[^>]*>(?P<location>[^<]+)</span>",
+    "url_template": "https://careers.synopsys.com{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.synopsys.com/search-jobs/Ireland",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 12
+  },
+  {
+   "brand": "Sun Life",
+   "adapter": "workday",
+   "params": {
+    "host": "sunlife.wd3.myworkdayjobs.com",
+    "tenant": "sunlife",
+    "site": "Experienced-Jobs"
+   },
+   "enabled": true,
+   "careers_url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs",
+   "irish_sites": "Waterford",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 19
+  },
+  {
+   "brand": "Cisco",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs",
+    "body": "{\"appliedFacets\":{\"locations\":[\"026fa05becb01001f5178c643d810000\",\"ef8a5a22403d1001f4faeab342240000\"]},\"limit\":20,\"offset\":0,\"searchText\":\"{q}\"}",
+    "list_path": "jobPostings",
+    "title": "title",
+    "location": "locationsText",
+    "id": "externalPath",
+    "url_field": "",
+    "url_template": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers{id}",
+    "headers": {
+     "Content-Type": "application/json"
+    },
+    "ireland_filtered": true
+   },
+   "enabled": true,
+   "careers_url": "https://careers.cisco.com/",
+   "irish_sites": "Galway, Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 32
+  },
+  {
+   "brand": "Astreya",
+   "adapter": "workday",
+   "params": {
+    "host": "astreya.wd5.myworkdayjobs.com",
+    "tenant": "astreya",
+    "site": "life-at-astreya-opportunities"
+   },
+   "enabled": true,
+   "careers_url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities",
+   "irish_sites": "Dublin, Remote (Ireland)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 12
+  },
+  {
+   "brand": "Neueda",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://neueda.com/wp-json/wp/v2/career?per_page=100",
+    "body": null,
+    "list_path": "",
+    "title": "title.rendered",
+    "location": "",
+    "id": "id",
+    "url_field": "link",
+    "url_template": "",
+    "headers": {},
+    "ireland_filtered": true
+   },
+   "enabled": true,
+   "careers_url": "https://neueda.com/careers/",
+   "irish_sites": "",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 3
+  },
+  {
+   "brand": "Spanish Point Technologies",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://www.spanishpoint.ie/api/sitecore-graphql",
+    "body": "{\"query\": \"query TaggedSearch { search(where: { AND: [ { name: \\\"_path\\\", value: \\\"DDB4D58422CA4F638DC9199D73C87EBB\\\", operator: CONTAINS } { name: \\\"_language\\\", value: \\\"en\\\", operator: EQ } { name: \\\"SxaTags\\\", value: \\\"891b9802-2c22-4cb9-b6c7-96f3ffbfc54a\\\", operator: CONTAINS } ] } first: 100) { total results { id name url { path } } } }\", \"variables\": {}}",
+    "list_path": "data.search.results",
+    "title": "name",
+    "location": "",
+    "id": "url.path",
+    "url_field": "",
+    "url_template": "https://www.spanishpoint.ie{id}",
+    "headers": {
+     "Content-Type": "application/json"
+    },
+    "ireland_filtered": true
+   },
+   "enabled": true,
+   "careers_url": "https://www.spanishpoint.ie/careers/",
+   "irish_sites": "Dublin (Clontarf, EastPoint Business Park)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 9
+  },
+  {
+   "brand": "Huawei",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://huaweiireland.teamtailor.com/jobs.rss",
+    "item_regex": "(?s)<item>\\s*<title>(?P<title>[^<]+)</title>(?:(?!</item>).)*?<link>https://huaweiireland\\.teamtailor\\.com/jobs/(?P<id>[^<]+)</link>(?:(?:(?!</item>).)*?<tt:city>(?P<location>[^<]*)</tt:city>)?",
+    "url_template": "https://huaweiireland.teamtailor.com/jobs/{id}"
+   },
+   "enabled": true,
+   "careers_url": "https://huaweiireland.teamtailor.com/jobs",
+   "irish_sites": "Dublin (IRC, Georges Court, Townsend St); historically Cork, Athlone",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 14
+  },
+  {
+   "brand": "Capgemini",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://cg-jobstream-api.azurewebsites.net/api/job-search?page=1&size=100&country_code=ie-en",
+    "body": null,
+    "list_path": "data",
+    "title": "title",
+    "location": "location",
+    "id": "id",
+    "url_field": "apply_job_url",
+    "url_template": "",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://www.capgemini.com/ie-en/careers/join-capgemini/job-search/",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 5
+  },
+  {
+   "brand": "PwC",
+   "adapter": "workday",
+   "params": {
+    "host": "pwc.wd3.myworkdayjobs.com",
+    "tenant": "pwc",
+    "site": "Global_Experienced_Careers"
+   },
+   "enabled": true,
+   "careers_url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers",
+   "irish_sites": "Dublin, Cork, Galway, Limerick, Waterford, Kilkenny, Wexford",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 35
+  },
+  {
+   "brand": "Emerson",
+   "adapter": "oracle_hcm",
+   "params": {
+    "host": "hdjq.fa.us2.oraclecloud.com",
+    "site": "CX_1",
+    "location_id": "300000000228777"
+   },
+   "enabled": true,
+   "careers_url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+   "irish_sites": "Cork, Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 1
+  },
+  {
+   "brand": "Citi",
+   "adapter": "workday",
+   "params": {
+    "host": "citi.wd5.myworkdayjobs.com",
+    "tenant": "citi",
+    "site": "2"
+   },
+   "enabled": true,
+   "careers_url": "https://citi.wd5.myworkdayjobs.com/2",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 36
+  },
+  {
+   "brand": "J.P. Morgan",
+   "adapter": "oracle_hcm",
+   "params": {
+    "host": "jpmc.fa.oraclecloud.com",
+    "site": "CX_1001",
+    "location_id": "300000000289351"
+   },
+   "enabled": true,
+   "careers_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
+   "irish_sites": "Dublin, Cork",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 68
+  },
+  {
+   "brand": "BNY",
+   "adapter": "oracle_hcm",
+   "params": {
+    "host": "eofe.fa.us2.oraclecloud.com",
+    "site": "CX_3001",
+    "location_id": "300000000378356"
+   },
+   "enabled": true,
+   "careers_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs",
+   "irish_sites": "Dublin (also Cork, Wexford offices)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 58
+  },
+  {
+   "brand": "Bank of America",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://careers.bankofamerica.com/services/jobssearchservlet?start=0&rows=100&search=jobsByCountry&country=Ireland",
+    "body": null,
+    "list_path": "jobsList",
+    "title": "postingTitle",
+    "location": "location",
+    "id": "jobRequisitionId",
+    "url_field": "",
+    "url_template": "https://careers.bankofamerica.com/en-us/job-detail/{id}/job",
+    "headers": {
+     "Accept": "application/json"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://careers.bankofamerica.com/en-us/job-search",
+   "irish_sites": "Dublin (2 Park Place Hatch St; Central Park Leopardstown)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 12
+  },
+  {
+   "brand": "NTT DATA",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://careers-inc.nttdata.com/search/?q=&locationsearch=Ireland",
+    "item_regex": "(?s)<a href=\"/job/(?P<path>[^\"]+?/(?P<id>\\d+)/)\" class=\"jobTitle-link\">(?P<title>[^<]+)</a>.*?<td class=\"colLocation[^>]*>\\s*<span class=\"jobLocation\">\\s*(?P<location>[^<]+?)\\s*</span>",
+    "url_template": "https://careers-inc.nttdata.com/job/{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://careers-inc.nttdata.com/search/?q=&locationsearch=Ireland",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 12
+  },
+  {
+   "brand": "eBay",
+   "adapter": "workday",
+   "params": {
+    "host": "ebay.wd5.myworkdayjobs.com",
+    "tenant": "ebay",
+    "site": "apply"
+   },
+   "enabled": true,
+   "careers_url": "https://ebay.wd5.myworkdayjobs.com/apply",
+   "irish_sites": "Dublin (plus Remote Ireland)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 17
+  },
+  {
+   "brand": "KLA",
+   "adapter": "workday",
+   "params": {
+    "host": "kla.wd1.myworkdayjobs.com",
+    "tenant": "kla",
+    "site": "Search"
+   },
+   "enabled": true,
+   "careers_url": "https://kla.wd1.myworkdayjobs.com/Search",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 4
+  },
+  {
+   "brand": "Bank of Ireland",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://careers.bankofireland.com/jobs/search?country_codes%5B%5D=IE&query=",
+    "item_regex": "(?s)aria-label=\"Title: (?P<title>[^\"]+)\" href=\"https://careers\\.bankofireland\\.com/jobs/(?P<id>[^\"]+)\".*?aria-label=\"Location: (?P<location>[^\"]+)\"",
+    "url_template": "https://careers.bankofireland.com/jobs/{id}"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.bankofireland.com/jobs/search",
+   "irish_sites": "Dublin (head office) and branch network; also Newry (NI)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "State Street",
+   "adapter": "workday",
+   "params": {
+    "host": "statestreet.wd1.myworkdayjobs.com",
+    "tenant": "statestreet",
+    "site": "Global"
+   },
+   "enabled": true,
+   "careers_url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+   "irish_sites": "Dublin, Kilkenny (also Kildare/Naas historically)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 44
+  },
+  {
+   "brand": "NetApp",
+   "adapter": "eightfold",
+   "params": {
+    "variant": "apply_v2",
+    "search_url": "https://netapp.eightfold.ai/api/apply/v2/jobs?domain=netapp.com&query={q}&location=Ireland&num=50",
+    "job_url_prefix": "https://netapp.eightfold.ai/careers/job/"
+   },
+   "enabled": true,
+   "careers_url": "https://netapp.eightfold.ai/careers?location=Ireland",
+   "irish_sites": "Cork (international HQ, Docklands)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 15
+  },
+  {
+   "brand": "Citco",
+   "adapter": "oracle_hcm",
+   "params": {
+    "host": "fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com",
+    "site": "CX_1",
+    "location_id": "300000000431877"
+   },
+   "enabled": true,
+   "careers_url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+   "irish_sites": "Dublin, Cork",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 68
+  },
+  {
+   "brand": "HubSpot",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://wtcfns.hubspot.com/careers/graphql",
+    "body": "{\"operationName\":\"Jobs\",\"variables\":{\"officeIds\":[6135],\"searchQuery\":\"{q}\"},\"query\":\"query Jobs($officeIds: [Int] $searchQuery: String) { jobs(officeIds: $officeIds searchQuery: $searchQuery) { id title office { id location } location { name } } }\"}",
+    "list_path": "data.jobs",
+    "title": "title",
+    "location": "office.location",
+    "id": "id",
+    "url_field": "",
+    "url_template": "https://www.hubspot.com/careers/jobs/{id}",
+    "headers": {
+     "Content-Type": "application/json",
+     "Origin": "https://www.hubspot.com",
+     "Referer": "https://www.hubspot.com/"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://www.hubspot.com/careers/jobs?office=dublin",
+   "irish_sites": "Dublin (EMEA HQ)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "Kaseya",
+   "adapter": "greenhouse",
+   "params": {
+    "slug": "kaseya"
+   },
+   "enabled": true,
+   "careers_url": "https://www.kaseya.com/careers/",
+   "irish_sites": "Dublin (plus Remote Ireland)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 4
+  },
+  {
+   "brand": "SAP",
+   "adapter": "smartrecruiters",
+   "params": {
+    "company": "SAPITBusinessSysteme"
+   },
+   "enabled": true,
+   "careers_url": "https://jobs.sap.com/en/jobs/",
+   "irish_sites": "Dublin, Galway (SAP Service and Support Centre)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "Dell Technologies",
+   "adapter": "oracle_hcm",
+   "params": {
+    "host": "enterpriseplatform.dell.com",
+    "site": "CX_1001",
+    "location_id": "300000000471044"
+   },
+   "enabled": true,
+   "careers_url": "https://jobs.dell.com/en/location/ireland-jobs/375/2963597/2",
+   "irish_sites": "Cork (Ovens), Limerick (Raheen), Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 15
+  },
+  {
+   "brand": "Motorola Solutions",
+   "adapter": "workday",
+   "params": {
+    "host": "motorolasolutions.wd5.myworkdayjobs.com",
+    "tenant": "motorolasolutions",
+    "site": "Careers"
+   },
+   "enabled": true,
+   "careers_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
+   "irish_sites": "Cork (Business CNTR ZEI16), Ireland Offsite",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 7
+  },
+  {
+   "brand": "General Motors IT",
+   "adapter": "workday",
+   "params": {
+    "host": "generalmotors.wd5.myworkdayjobs.com",
+    "tenant": "generalmotors",
+    "site": "Careers_GM",
+    "ireland_facet": {
+     "Location_Country": [
+      "04a05835925f45b3a59406a2a6b72c8a"
+     ]
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
+   "irish_sites": "Limerick, Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 4
+  },
+  {
+   "brand": "Tokyo Electron",
+   "adapter": "workday",
+   "params": {
+    "host": "tel.wd3.myworkdayjobs.com",
+    "tenant": "tel",
+    "site": "TEE_Careers",
+    "ireland_facet": {
+     "locationCountry": [
+      "04a05835925f45b3a59406a2a6b72c8a"
+     ]
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://tel.wd3.myworkdayjobs.com/TEE_Careers",
+   "irish_sites": "Maynooth (Co. Kildare, near Intel Leixlip)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "Infineon",
+   "adapter": "eightfold",
+   "params": {
+    "variant": "pcsx",
+    "search_url": "https://jobs.infineon.com/api/pcsx/search?domain=infineon.com&query={q}&location=Ireland&start=0&num=20",
+    "job_url_prefix": "https://jobs.infineon.com"
+   },
+   "enabled": true,
+   "careers_url": "https://jobs.infineon.com/careers",
+   "irish_sites": "Cork, Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 11
+  },
+  {
+   "brand": "Version 1",
+   "adapter": "smartrecruiters",
+   "params": {
+    "company": "Version1"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.smartrecruiters.com/Version1",
+   "irish_sites": "Dublin, Cork, Portlaoise",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 41
+  },
+  {
+   "brand": "Cubic Telecom",
+   "adapter": "ashby",
+   "params": {
+    "slug": "cubic3"
+   },
+   "enabled": true,
+   "careers_url": "https://jobs.ashbyhq.com/cubic3",
+   "irish_sites": "Dublin (Sandyford HQ)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 2
+  },
+  {
+   "brand": "Bloomberg",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://bloomberg.avature.net/careers/SearchJobs/Dublin?jobRecordsPerPage=100",
+    "item_regex": "<h3 class=\"article__header__text__title[^\"]*\">\\s*<a class=\"link\" href=\"https://bloomberg\\.avature\\.net/careers/(?P<path>JobDetail/[^\"]+?/(?P<id>\\d+))\">\\s*(?P<title>.*?)\\s*</a>.*?<span class=\"list-item-location\">\\s*(?P<location>[^<]*?)\\s*</span>",
+    "url_template": "https://bloomberg.avature.net/careers/{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://bloomberg.avature.net/careers/SearchJobs",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 6
+  },
+  {
+   "brand": "Alibaba Cloud (Sparkoo)",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://talent.alibaba.com/position/search?_csrf=11111111-2222-3333-4444-555555555555",
+    "body": "{\"channel\":\"group_overseas_official_site\",\"language\":\"en\",\"batchId\":\"\",\"categories\":\"\",\"deptCodes\":[],\"key\":\"Dublin\",\"pageIndex\":1,\"pageSize\":100,\"regions\":\"\",\"subCategories\":\"\"}",
+    "list_path": "content.datas",
+    "title": "name",
+    "location": "workLocations",
+    "id": "id",
+    "url_field": "",
+    "url_template": "https://talent.alibaba.com/en/off-campus/position-detail?positionId={id}",
+    "headers": {
+     "Cookie": "XSRF-TOKEN=11111111-2222-3333-4444-555555555555",
+     "Referer": "https://talent.alibaba.com/off-campus/position-list?lang=en"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://talent.alibaba.com/off-campus/position-list?lang=en",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 5
+  },
+  {
+   "brand": "Cadence",
+   "adapter": "workday",
+   "params": {
+    "host": "cadence.wd1.myworkdayjobs.com",
+    "tenant": "cadence",
+    "site": "External_Careers",
+    "ireland_facet": {
+     "Location_Country": [
+      "04a05835925f45b3a59406a2a6b72c8a"
+     ]
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+   "irish_sites": "Cork, Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 18
+  },
+  {
+   "brand": "Activision Blizzard",
+   "adapter": "workday",
+   "params": {
+    "host": "xboxgaming.wd1.myworkdayjobs.com",
+    "tenant": "xboxgaming",
+    "site": "External",
+    "ireland_facet": {
+     "locationCountry": [
+      "04a05835925f45b3a59406a2a6b72c8a"
+     ]
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://xboxgaming.wd1.myworkdayjobs.com/External",
+   "irish_sites": "Dublin (Demonware); Cork (Blizzard, historically)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 3
+  },
+  {
+   "brand": "Yahoo",
+   "adapter": "workday",
+   "params": {
+    "host": "ouryahoo.wd5.myworkdayjobs.com",
+    "tenant": "ouryahoo",
+    "site": "careers",
+    "ireland_facet": {
+     "Location_Country": [
+      "04a05835925f45b3a59406a2a6b72c8a"
+     ]
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://ouryahoo.wd5.myworkdayjobs.com/careers",
+   "irish_sites": "Dublin (locations listed as 'Ireland')",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 4
+  },
+  {
+   "brand": "Lionbridge",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://careers.lionbridge.com/jobs/search?country_codes%5B%5D=IE&query={q}",
+    "item_regex": "data-job-url=\"https://careers\\.lionbridge\\.com/jobs/(?P<id>[^\"]+)\">.*?aria-label=\"Title: (?P<title>[^\"]*)\".*?class=\"job-search-results-location\">\\s*<ul>\\s*<li[^>]*>(?P<location>[^<]*)</li>",
+    "url_template": "https://careers.lionbridge.com/jobs/{id}"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.lionbridge.com/jobs/search?country_codes%5B%5D=IE",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "Remitly",
+   "adapter": "workday",
+   "params": {
+    "host": "remitly.wd5.myworkdayjobs.com",
+    "tenant": "remitly",
+    "site": "Remitly_Careers"
+   },
+   "enabled": true,
+   "careers_url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers",
+   "irish_sites": "Dublin (Remitly Europe Ltd)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 0
+  },
+  {
+   "brand": "Susquehanna (SIG)",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://careers.sig.com/api/jobs?keywords={q}&location=Ireland&limit=100&page=1",
+    "body": null,
+    "list_path": "jobs",
+    "title": "data.title",
+    "location": "data.full_location",
+    "id": "data.req_id",
+    "url_field": "",
+    "url_template": "https://careers.sig.com/jobs/{id}",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://careers.sig.com/",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 52
+  },
+  {
+   "brand": "LinkedIn",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={q}&location=Ireland&f_C=1337&start=0",
+    "item_regex": "data-entity-urn=\"urn:li:jobPosting:(?P<id>\\d+)\".*?<h3 class=\"base-search-card__title\">\\s*(?P<title>.*?)\\s*</h3>.*?<span class=\"job-search-card__location\">\\s*(?P<location>.*?)\\s*</span>",
+    "url_template": "https://www.linkedin.com/jobs/view/{id}"
+   },
+   "enabled": true,
+   "careers_url": "https://www.linkedin.com/jobs/search?f_C=1337&location=Ireland",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 20
+  },
+  {
+   "brand": "ASML",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://discover-euc1.sitecorecloud.io/discover/v2/126200477",
+    "body": "{\"context\":{\"page\":{\"uri\":\"https://www.asml.com/en/careers/find-your-job\"},\"locale\":{\"country\":\"us\",\"language\":\"en\"}},\"widget\":{\"items\":[{\"entity\":\"content\",\"rfk_id\":\"asml_job_search\",\"search\":{\"limit\":100,\"offset\":0,\"content\":{},\"filter\":{\"type\":\"and\",\"filters\":[{\"type\":\"eq\",\"name\":\"job_country\",\"value\":\"Ireland\"}]}}}]}}",
+    "list_path": "widgets.0.content",
+    "title": "name",
+    "location": "job_location",
+    "id": "id",
+    "url_field": "url",
+    "url_template": "",
+    "headers": {
+     "Authorization": "01-967712c8-5a349c1760436ea6dccfd7bb02bfbe4dc2ccc36c",
+     "Origin": "https://www.asml.com",
+     "Referer": "https://www.asml.com/"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://www.asml.com/en/careers/find-your-job",
+   "irish_sites": "Leixlip (job_city Maynooth), Co. Kildare",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 1
+  },
+  {
+   "brand": "ASM",
+   "adapter": "greenhouse",
+   "params": {
+    "slug": "asm"
+   },
+   "enabled": true,
+   "careers_url": "https://www.asm.com/open-vacancies?Location=ireland--lucan-co-dublin",
+   "irish_sites": "Lucan, Co. Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 2
+  },
+  {
+   "brand": "Planet Payment",
+   "adapter": "workday",
+   "params": {
+    "host": "planet.wd3.myworkdayjobs.com",
+    "tenant": "planet",
+    "site": "Planet",
+    "ireland_facet": {
+     "Location_Country": [
+      "04a05835925f45b3a59406a2a6b72c8a"
+     ]
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://planet.wd3.myworkdayjobs.com/Planet",
+   "irish_sites": "Galway, Dublin (incl. Dublin Airport), Shannon Airport, Kilkenny",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 15
+  },
+  {
+   "brand": "GlobalLogic",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://www.globallogic.com/career-search-page/?location=ireland",
+    "item_regex": "<a href=\"https://www\\.globallogic\\.com/careers/(?P<path>[^\"]*?-(?P<id>irc\\d+))/\" class=\"job_box\">\\s*<div class=\"top_area\">\\s*<span class=\"job_location\">(?P<location>[^<]*)</span>.*?<h4>(?P<title>[^<]*)</h4>",
+    "url_template": "https://www.globallogic.com/careers/{path}/"
+   },
+   "enabled": true,
+   "careers_url": "https://www.globallogic.com/career-search-page/?location=ireland",
+   "irish_sites": "Athlone",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 3
+  },
+  {
+   "brand": "EY",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://careers.ey.com/ey/search/?createNewAlert=false&q={q}&locationsearch=Ireland",
+    "item_regex": "(?s)<span class=\"jobTitle hidden-phone\">\\s*<a href=\"(?P<path>/ey/job/[^\"]+/(?P<id>\\d+)/)\" class=\"jobTitle-link\">(?P<title>[^<]+)</a>.*?<span class=\"jobLocation\">\\s*(?P<location>[^<]+?)\\s*<",
+    "url_template": "https://careers.ey.com{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.ey.com/ey/search/?locationsearch=Ireland",
+   "irish_sites": "Dublin, Cork (seen in results); EY Ireland also has Limerick, Galway, Waterford offices",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 70
+  },
+  {
+   "brand": "Accenture",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs",
+    "body": "{\"appliedFacets\": {\"locationCountry\": [\"04a05835925f45b3a59406a2a6b72c8a\"]}, \"limit\": 20, \"offset\": 0, \"searchText\": \"{q}\"}",
+    "list_path": "jobPostings",
+    "title": "title",
+    "location": "bulletFields",
+    "id": "externalPath",
+    "url_field": "",
+    "url_template": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers{id}",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 54
+  },
+  {
+   "brand": "Qualcomm (QT Technologies)",
+   "adapter": "eightfold",
+   "params": {
+    "variant": "pcsx",
+    "search_url": "https://careers.qualcomm.com/api/pcsx/search?domain=qualcomm.com&query={q}&location=Ireland&start=0&num=20",
+    "job_url_prefix": "https://careers.qualcomm.com"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.qualcomm.com/careers?location=Ireland",
+   "irish_sites": "Cork",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 31
+  },
+  {
+   "brand": "Cognizant",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://careers.cognizant.com/global-en/jobs/?keyword={q}&location=Ireland&cname=Ireland&ccode=IE&pagesize=50",
+    "item_regex": "(?s)<h2 class=\"card-title\"><a class=\"stretched-link js-view-job\" href=\"(?P<path>/global-en/jobs/(?P<id>[^/\"]+)/[^\"]*)\">(?P<title>[^<]+)</a></h2>.*?<ul class=\"list-inline job-meta\">\\s*<li class=\"list-inline-item\">\\s*(?P<location>[^<]+?)\\s*</li>",
+    "url_template": "https://careers.cognizant.com{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.cognizant.com/global-en/jobs/?location=Ireland&cname=Ireland&ccode=IE",
+   "irish_sites": "Dublin (Alfie Byrne Road), Cork, Limerick",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 36
+  },
+  {
+   "brand": "Deloitte",
+   "adapter": "workday",
+   "params": {
+    "host": "deloitteie.wd3.myworkdayjobs.com",
+    "tenant": "deloitteie",
+    "site": "Experienced_Professionals"
+   },
+   "enabled": true,
+   "careers_url": "https://deloitteie.wd3.myworkdayjobs.com/Experienced_Professionals",
+   "irish_sites": "Dublin, Cork, Galway, Limerick",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 32
+  },
+  {
+   "brand": "NT R&D Logistics Systems",
+   "adapter": "generic_json",
+   "params": {
+    "method": "GET",
+    "url": "https://www.nolantransport.com/wp-json/wp/v2/posts?categories=3&categories_exclude=120&per_page=50&_fields=id,title,link,date",
+    "body": null,
+    "list_path": "",
+    "title": "title.rendered",
+    "location": "",
+    "id": "id",
+    "url_field": "link",
+    "url_template": "",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://www.nolantransport.com/careers/",
+   "irish_sites": "New Ross (Co. Wexford, Oaklands House HQ), Dublin depot",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 2
+  },
+  {
+   "brand": "Infosys",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://globalcareers.infosysbpm.com/infosysbpm/ireland",
+    "item_regex": "(?s)<a href=\"(?P<path>/regional-careers/company-job/description/reqid/(?P<id>[0-9A-Za-z]+))\" class=\"job\">\\s*<div class=\"left-section\">\\s*<div class=\"job-title[^\"]*\">(?P<title>[^<]+)</div>.*?<div class=\"location-inline\">\\s*(?P<location>[^<]+?)\\s*</div>",
+    "url_template": "https://globalcareers.infosysbpm.com{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://globalcareers.infosysbpm.com/infosysbpm/ireland",
+   "irish_sites": "Infosys BPM: Dublin, Wexford, Waterford, Clonmel",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 5
+  },
+  {
+   "brand": "Meta",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://www.metacareers.com/api/graphql/",
+    "body": "doc_id=27506805582236862&variables=%7B%22search_input%22%3A%7B%22q%22%3A%22{q}%22%2C%22divisions%22%3A%5B%5D%2C%22offices%22%3A%5B%22Dublin%2C%20Ireland%22%2C%22Clonee%2C%20Ireland%22%5D%2C%22roles%22%3A%5B%5D%2C%22leadership_levels%22%3A%5B%5D%2C%22saved_jobs%22%3A%5B%5D%2C%22saved_searches%22%3A%5B%5D%2C%22sub_teams%22%3A%5B%5D%2C%22teams%22%3A%5B%5D%2C%22is_leadership%22%3Afalse%2C%22is_remote_only%22%3Afalse%2C%22sort_by_new%22%3Afalse%2C%22results_per_page%22%3Anull%7D%2C%22isLoggedIn%22%3Afalse%2C%22viewasUserID%22%3Anull%7D",
+    "list_path": "data.job_search_with_featured_jobs.all_jobs",
+    "title": "title",
+    "location": "locations",
+    "id": "id",
+    "url_field": "",
+    "url_template": "https://www.metacareers.com/jobs/{id}/",
+    "headers": {
+     "Content-Type": "application/x-www-form-urlencoded",
+     "Sec-Fetch-Site": "same-origin",
+     "Origin": "https://www.metacareers.com",
+     "Referer": "https://www.metacareers.com/jobsearch/"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://www.metacareers.com/jobsearch/?offices[0]=Dublin%2C%20Ireland",
+   "irish_sites": "Dublin, Clonee (Co. Meath data centre)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 34
+  },
+  {
+   "brand": "Apple",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://jobs.apple.com/en-ie/search?location=ireland-IRL&search={q}",
+    "item_regex": "\\\\\"name\\\\\":\\\\\"(?P<location>[^\\\\\"]*)\\\\\",\\\\\"countryID\\\\\":\\\\\"[^\\\\\"]*\\\\\",\\\\\"level\\\\\":\\d+\\}\\],\\\\\"positionId\\\\\":\\\\\"(?P<id>\\d+)\\\\\",\\\\\"postingDate\\\\\":\\\\\"[^\\\\\"]*\\\\\",\\\\\"postingTitle\\\\\":\\\\\"(?P<title>[^\\\\\"]*)",
+    "url_template": "https://jobs.apple.com/en-ie/details/{id}"
+   },
+   "enabled": true,
+   "careers_url": "https://jobs.apple.com/en-ie/search?location=ireland-IRL",
+   "irish_sites": "Cork (Hollyhill campus), Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 31
+  },
+  {
+   "brand": "Applied Materials",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs",
+    "body": "{\"appliedFacets\": {\"Country\": [\"04a05835925f45b3a59406a2a6b72c8a\"]}, \"limit\": 20, \"offset\": 0, \"searchText\": \"{q}\"}",
+    "list_path": "jobPostings",
+    "title": "title",
+    "location": "locationsText",
+    "id": "externalPath",
+    "url_field": "",
+    "url_template": "https://amat.wd1.myworkdayjobs.com/en-US/External{id}",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://amat.wd1.myworkdayjobs.com/External",
+   "irish_sites": "Leixlip (Co. Kildare, at Intel site), Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 10
+  },
+  {
+   "brand": "HCLTech",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://careers.hcltech.com/services/recruiting/v1/jobs",
+    "body": "{\"locale\": \"en_US\", \"pageNumber\": 0, \"sortBy\": \"\", \"keywords\": \"{q}\", \"location\": \"\", \"facetFilters\": {\"custCountryRegion\": [\"Ireland\"]}, \"brand\": \"\", \"skills\": [], \"categoryId\": 0, \"alertId\": \"\", \"rcmCandidateId\": \"\"}",
+    "list_path": "jobSearchResult",
+    "title": "response.unifiedStandardTitle",
+    "location": "response.custCountryRegion",
+    "id": "response.id",
+    "url_field": "",
+    "url_template": "https://careers.hcltech.com/job/x/{id}-en_US",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://careers.hcltech.com/",
+   "irish_sites": "Ireland (location field gives country only; HCL offices in Dublin)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 20
+  },
+  {
+   "brand": "Wipro",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://careers.wipro.com/services/recruiting/v1/jobs",
+    "body": "{\"locale\":\"en_US\",\"pageNumber\":0,\"sortBy\":\"\",\"keywords\":\"{q}\",\"location\":\"Ireland\",\"facetFilters\":{},\"brand\":\"\",\"skills\":[],\"categoryId\":0,\"alertId\":\"\",\"rcmCandidateId\":\"\"}",
+    "list_path": "jobSearchResult",
+    "title": "response.unifiedStandardTitle",
+    "location": "response.jobLocationShort",
+    "id": "response.id",
+    "url_field": "",
+    "url_template": "https://careers.wipro.com/job/{id}-en_US",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://careers.wipro.com/",
+   "irish_sites": "Dublin (D4)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 4
+  },
+  {
+   "brand": "TikTok",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://api.lifeattiktok.com/api/v1/public/supplier/search/job/posts",
+    "body": "{\"recruitment_id_list\": [], \"job_category_id_list\": [], \"subject_id_list\": [], \"location_code_list\": [\"CT_37\"], \"keyword\": \"{q}\", \"limit\": 50, \"offset\": 0}",
+    "list_path": "data.job_post_list",
+    "title": "title",
+    "location": "city_info.en_name",
+    "id": "id",
+    "url_field": "",
+    "url_template": "https://lifeattiktok.com/search/{id}",
+    "headers": {
+     "website-path": "tiktok",
+     "Origin": "https://lifeattiktok.com",
+     "Referer": "https://lifeattiktok.com/"
+    }
+   },
+   "enabled": true,
+   "careers_url": "https://lifeattiktok.com/search?location=CT_37",
+   "irish_sites": "Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 54
+  },
+  {
+   "brand": "Cpl Solutions",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://www.cpl.com/jobs?q={q}",
+    "item_regex": "(?s)href=\"(?P<path>/jobs/(?P<id>[A-Za-z0-9-]+))\"><div class=\"flex flex-1 flex-col w-full \"(?:(?!href=\"/jobs/).)*?<h3[^>]*>(?P<title>[^<]+)</h3>(?:(?!href=\"/jobs/).)*?background-color:#E9E9E9;color:var\\(--color-black\\)\">(?P<location>[^<]+)</span>",
+    "url_template": "https://www.cpl.com{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://www.cpl.com/jobs",
+   "irish_sites": "Nationwide: Dublin, Cork, Galway, Limerick, Kildare, Clare, Mayo, Sligo, Swords",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 81
+  },
+  {
+   "brand": "Optum (UnitedHealth)",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://careers.unitedhealthgroup.com/search-jobs/results?ActiveFacetID=0&CurrentPage=1&RecordsPerPage=50&Distance=50&RadiusUnitType=0&Keywords={q}&Location=&ShowRadius=False&IsPagination=False&CustomFacetName=&FacetTerm=&FacetType=0&FacetFilters%5B0%5D.ID=2963597&FacetFilters%5B0%5D.FacetType=2&FacetFilters%5B0%5D.Count=0&FacetFilters%5B0%5D.Display=Ireland&FacetFilters%5B0%5D.IsApplied=true&FacetFilters%5B0%5D.FieldName=&SearchResultsModuleName=Search+Results&SearchFiltersModuleName=Search+Filters&SortCriteria=0&SortDirection=0&SearchType=5",
+    "item_regex": "(?s)<a href=\\\\\"(?P<path>/job/[^\\\\\"]+)\\\\\" data-job-id=\\\\\"(?P<id>\\d+)\\\\\"[^>]*>(?:(?!</a>).)*?<h2>(?P<title>[^<]+)</h2>(?:(?!</a>).)*?<span class=\\\\\"job-location[^>]*>(?P<location>[^<]+)</span>",
+    "url_template": "https://careers.unitedhealthgroup.com{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://careers.unitedhealthgroup.com/search-jobs/Ireland",
+   "irish_sites": "Dublin, Letterkenny",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 27
+  },
+  {
+   "brand": "KPMG",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://kpmgireland.avature.net/experiencedhires/SearchJobs/?search={q}",
+    "item_regex": "(?s)<div class=\"list__item__text__title\">\\s*<a href=\"https://kpmgireland\\.avature\\.net/(?P<path>experiencedhires/FolderDetail/[^\"]*?/(?P<id>\\d+))\">(?P<title>[^<]+)</a>\\s*</div>\\s*(?:<div class=\"list__item__text__subtitle\">\\s*<span>(?P<location>[^<]*)</span>)?",
+    "url_template": "https://kpmgireland.avature.net/{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://kpmgireland.avature.net/experiencedhires/SearchJobs/",
+   "irish_sites": "Dublin, Cork (KPMG also has Galway, Limerick offices)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 16
+  },
+  {
+   "brand": "IBM",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://www-api.ibm.com/search/api/v2",
+    "body": "{\"appId\": \"careers\", \"scopes\": [\"careers2\"], \"query\": {\"bool\": {\"must\": [{\"simple_query_string\": {\"query\": \"{q}\", \"fields\": [\"keywords^1\", \"body^1\", \"description^2\", \"h1s_content^2\", \"title^3\", \"field_text_01\"]}}], \"filter\": [{\"bool\": {\"should\": [{\"term\": {\"field_keyword_05\": \"Ireland\"}}]}}]}}, \"size\": 50, \"lang\": \"zz\", \"localeSelector\": {}, \"sm\": {\"query\": \"{q}\", \"lang\": \"zz\"}, \"_source\": [\"_id\", \"title\", \"url\", \"field_keyword_05\", \"field_keyword_08\", \"field_keyword_17\", \"field_keyword_18\", \"field_keyword_19\"]}",
+    "list_path": "hits.hits",
+    "title": "_source.title",
+    "location": "_source.field_keyword_19",
+    "id": "_id",
+    "url_field": "_source.url",
+    "url_template": "",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://www.ibm.com/careers/search?field_keyword_05[0]=Ireland",
+   "irish_sites": "Dublin (Research lab), Mulhuddart (Dublin 15 campus), Waterford",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 4
+  },
+  {
+   "brand": "Fidelity Investments (FISC)",
+   "adapter": "generic_json",
+   "params": {
+    "method": "POST",
+    "url": "https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs",
+    "body": "{\"appliedFacets\": {\"locationCountry\": [\"04a05835925f45b3a59406a2a6b72c8a\"]}, \"limit\": 20, \"offset\": 0, \"searchText\": \"{q}\"}",
+    "list_path": "jobPostings",
+    "title": "title",
+    "location": "locationsText",
+    "id": "externalPath",
+    "url_field": "",
+    "url_template": "https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers{id}",
+    "headers": {}
+   },
+   "enabled": true,
+   "careers_url": "https://fmr.wd1.myworkdayjobs.com/FidelityCareers",
+   "irish_sites": "Dublin, Galway",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 24
+  },
+  {
+   "brand": "AIB",
+   "adapter": "generic_html",
+   "params": {
+    "url": "https://jobs.aib.ie/search/?createNewAlert=false&q={q}",
+    "item_regex": "(?s)<span class=\"jobTitle hidden-phone\">\\s*<a href=\"(?P<path>/[a-z]+/job/[^\"]+/(?P<id>\\d+)/)\" class=\"jobTitle-link\">(?P<title>[^<]+)</a>(?:(?!</tr>).)*?<td class=\"colLocation hidden-phone\"[^>]*>\\s*<span class=\"jobLocation\">\\s*(?P<location>[^<]*?)\\s*<",
+    "url_template": "https://jobs.aib.ie{path}"
+   },
+   "enabled": true,
+   "careers_url": "https://jobs.aib.ie/search/",
+   "irish_sites": "Dublin, Cork, Galway, Tipperary (branch network nationwide)",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 23
+  },
+  {
+   "brand": "Ericsson",
+   "adapter": "eightfold",
+   "params": {
+    "variant": "pcsx",
+    "search_url": "https://jobs.ericsson.com/api/pcsx/search?domain=ericsson.com&query={q}&location=Ireland&start=0&num=20",
+    "job_url_prefix": "https://jobs.ericsson.com"
+   },
+   "enabled": true,
+   "careers_url": "https://jobs.ericsson.com/careers?location=Ireland",
+   "irish_sites": "Athlone (Ericsson Software Technology Ireland), Dublin",
+   "tested": "2026-10-09",
+   "ireland_jobs_at_test": 1
+  }
+ ],
+ "no_feed": [
+  [
+   "Clearstream",
+   "HTTPError: HTTP Error 401: Unauthorized"
+  ],
+  [
+   "Expleo",
+   "Jobs only on iCIMS (careers-expleo-jobs.icims.com, also expleo-jobs-uk.icims.com) which returns AWS WAF 'Human Verificat"
+  ],
+  [
+   "Isoft Digital Transformation",
+   "No public careers site or ATS feed found for Isoft Digital Transformation Limited (isoft.ie is a template site with no jobs/careers page; no"
+  ],
+  [
+   "Liberty IT",
+   "Jobs only on iCIMS portal careerslit-libertymutual.icims.com which is behind AWS WAF 'Human Verification' (HTTP 405 to c"
+  ],
+  [
+   "PTSB",
+   "PTSB uses CoreHR e-Recruit (my.corehr.com/pls/ptsbrecruit). Vacancy results are only returned by POSTing the search form (erq_search_version"
+  ],
+  [
+   "Tata Consultancy Services",
+   "Job search is TCS iBegin (Angular app at ibegin.tcsapps.com/candidate/next/en-IE/jobs/search). Its API POST /candidate/next/api/en-IE/search"
+  ],
+  [
+   "Telus Digital",
+   "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+  ],
+  [
+   "Three Ireland",
+   "Cornerstone OnDemand (CSOD) career site is JS-only and its job-search API needs a short-lived bearer token (~8h) embedde"
+  ]
+ ],
+ "linkedin": {
+  "enabled": true,
+  "days": 7,
+  "pages": 2,
+  "delay_s": 2.5,
+  "queries": [
+   "technical support engineer",
+   "support engineer",
+   "technical solutions engineer",
+   "technical services engineer",
+   "escalation engineer",
+   "incident manager",
+   "cloud support engineer",
+   "site reliability engineer",
+   "vmware",
+   "kubernetes",
+   "virtualization engineer",
+   "systems engineer",
+   "infrastructure engineer",
+   "technical account manager",
+   "designated support engineer",
+   "customer engineer"
+  ]
+ },
+ "jobspy": {
+  "enabled": false,
+  "sites": [
+   "indeed"
+  ],
+  "days": 7,
+  "results": 40,
+  "queries": [
+   "technical support engineer",
+   "kubernetes support",
+   "vmware engineer"
+  ]
+ },
+ "permit": {
+  "csep_min_eur": 40904,
+  "csep_graduate_eur": 36848,
+  "csep_any_role_eur": 68911,
+  "source": "Permit rules tab, tracker (9 Oct 2026). Re-check DETE thresholds each January."
+ },
+ "agencies": [
+  "Cpl",
+  "Sigmar Recruitment",
+  "Morgan McKinley",
+  "Hays",
+  "Collins McNicholas",
+  "Harvey Nash",
+  "Reperio",
+  "Stelfox",
+  "Hamilton Barnes",
+  "Robert Walters",
+  "Jobgether",
+  "Fruition"
+ ],
+ "consultancies_rx": "accenture|deloitte|\\bey\\b|ernst|kpmg|pwc|capgemini|cognizant|infosys|tata consultancy|\\btcs\\b|wipro|hcl|ntt data|dxc|version 1|genpact|globallogic|neueda|spanish point|astreya"
+}

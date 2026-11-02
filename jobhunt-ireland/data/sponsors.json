@@ -1,0 +1,1940 @@
+{
+ "brands": [
+  {
+   "brand": "Amazon / AWS",
+   "category": "Big Tech & cloud",
+   "relevance": 3,
+   "entities": [
+    "Amazon Web Services EMEA SARL",
+    "Amazon Data Services Ireland Limited",
+    "Amazon Ireland Support Services Limited",
+    "Amazon EU Sarl, Irish Branch",
+    "Amazon Development Centre Ireland Limited"
+   ],
+   "permits_2025": 550,
+   "permits_2026": 357,
+   "total": 907,
+   "rank": 1
+  },
+  {
+   "brand": "Google",
+   "category": "Big Tech & cloud",
+   "relevance": 3,
+   "entities": [
+    "Google Ireland Limited",
+    "Google Cloud EMEA Limited"
+   ],
+   "permits_2025": 385,
+   "permits_2026": 269,
+   "total": 654,
+   "rank": 2
+  },
+  {
+   "brand": "EY",
+   "category": "Consulting (mostly non-tech permits)",
+   "relevance": 1,
+   "entities": [
+    "Ernst & Young"
+   ],
+   "permits_2025": 278,
+   "permits_2026": 145,
+   "total": 423,
+   "rank": 3
+  },
+  {
+   "brand": "Accenture",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Accenture International Limited",
+    "Accenture Limited",
+    "Accenture Global Solutions Limited"
+   ],
+   "permits_2025": 197,
+   "permits_2026": 134,
+   "total": 331,
+   "rank": 4
+  },
+  {
+   "brand": "Tata Consultancy Services",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Tata Consultancy Services Limited",
+    "Tata Consultancy Services Ireland Limited"
+   ],
+   "permits_2025": 167,
+   "permits_2026": 164,
+   "total": 331,
+   "rank": 5
+  },
+  {
+   "brand": "Qualcomm (QT Technologies)",
+   "category": "Semiconductors & hardware",
+   "relevance": 1,
+   "entities": [
+    "QT Technologies Ireland Limited"
+   ],
+   "permits_2025": 100,
+   "permits_2026": 125,
+   "total": 225,
+   "rank": 6
+  },
+  {
+   "brand": "Microsoft",
+   "category": "Big Tech & cloud",
+   "relevance": 3,
+   "entities": [
+    "Microsoft Ireland Research Unlimited Company",
+    "Microsoft RL Unlimited Company",
+    "Microsoft Ireland Operations Limited"
+   ],
+   "permits_2025": 97,
+   "permits_2026": 108,
+   "total": 205,
+   "rank": 7
+  },
+  {
+   "brand": "Deloitte",
+   "category": "Consulting (mostly non-tech permits)",
+   "relevance": 1,
+   "entities": [
+    "Deloitte Technology & Transformation Unlimited Company",
+    "Deloitte Services Unlimited Company",
+    "Deloitte Ireland LLP"
+   ],
+   "permits_2025": 99,
+   "permits_2026": 90,
+   "total": 189,
+   "rank": 8
+  },
+  {
+   "brand": "Cognizant",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Cognizant Technology Solutions Ireland Limited"
+   ],
+   "permits_2025": 103,
+   "permits_2026": 65,
+   "total": 168,
+   "rank": 9
+  },
+  {
+   "brand": "Mastercard",
+   "category": "Payments & fintech",
+   "relevance": 3,
+   "entities": [
+    "MasterCard Ireland Limited",
+    "Mastercard Ireland Limited"
+   ],
+   "permits_2025": 89,
+   "permits_2026": 77,
+   "total": 166,
+   "rank": 10
+  },
+  {
+   "brand": "Infosys",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Infosys Limited",
+    "Infosys Fluido Ireland Limited",
+    "Infosys BPM Limited"
+   ],
+   "permits_2025": 86,
+   "permits_2026": 78,
+   "total": 164,
+   "rank": 11
+  },
+  {
+   "brand": "Analog Devices",
+   "category": "Semiconductors & hardware",
+   "relevance": 1,
+   "entities": [
+    "Analog Devices International Unlimited Company"
+   ],
+   "permits_2025": 77,
+   "permits_2026": 86,
+   "total": 163,
+   "rank": 12
+  },
+  {
+   "brand": "Intel",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "Intel Ireland Limited",
+    "Intel Research and Development Limited",
+    "Intel Research and Development Ireland Limited"
+   ],
+   "permits_2025": 76,
+   "permits_2026": 77,
+   "total": 153,
+   "rank": 13
+  },
+  {
+   "brand": "Applied Materials",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "Applied Materials Ireland Limited"
+   ],
+   "permits_2025": 50,
+   "permits_2026": 96,
+   "total": 146,
+   "rank": 14
+  },
+  {
+   "brand": "NT R&D Logistics Systems",
+   "category": "IT services & outsourcing",
+   "relevance": 1,
+   "entities": [
+    "NT R&D Logistics Systems Limited"
+   ],
+   "permits_2025": 84,
+   "permits_2026": 57,
+   "total": 141,
+   "rank": 15
+  },
+  {
+   "brand": "Salesforce",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "SFDC Ireland Limited"
+   ],
+   "permits_2025": 83,
+   "permits_2026": 50,
+   "total": 133,
+   "rank": 16
+  },
+  {
+   "brand": "Apple",
+   "category": "Big Tech & cloud",
+   "relevance": 3,
+   "entities": [
+    "Apple Operations Limited",
+    "Apple Operations International Limited",
+    "Apple Distribution International Limited"
+   ],
+   "permits_2025": 73,
+   "permits_2026": 53,
+   "total": 126,
+   "rank": 17
+  },
+  {
+   "brand": "Meta",
+   "category": "Big Tech & cloud",
+   "relevance": 2,
+   "entities": [
+    "Meta Platforms Ireland Limited"
+   ],
+   "permits_2025": 83,
+   "permits_2026": 41,
+   "total": 124,
+   "rank": 18
+  },
+  {
+   "brand": "Stripe",
+   "category": "Payments & fintech",
+   "relevance": 3,
+   "entities": [
+    "Stripe Technology Europe Limited",
+    "Stripe Payments Europe Limited",
+    "Stripe Technology Company Limited"
+   ],
+   "permits_2025": 40,
+   "permits_2026": 61,
+   "total": 101,
+   "rank": 19
+  },
+  {
+   "brand": "TikTok",
+   "category": "Big Tech & cloud",
+   "relevance": 2,
+   "entities": [
+    "TikTok Technology Limited"
+   ],
+   "permits_2025": 56,
+   "permits_2026": 45,
+   "total": 101,
+   "rank": 20
+  },
+  {
+   "brand": "Optum (UnitedHealth)",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Optum Services (Ireland) Limited"
+   ],
+   "permits_2025": 41,
+   "permits_2026": 53,
+   "total": 94,
+   "rank": 21
+  },
+  {
+   "brand": "HCLTech",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "HCL (Ireland) Information Systems Limited",
+    "HCL Technologies Limited"
+   ],
+   "permits_2025": 58,
+   "permits_2026": 35,
+   "total": 93,
+   "rank": 22
+  },
+  {
+   "brand": "Wipro",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Wipro Limited - Irish Branch",
+    "Wipro Limited"
+   ],
+   "permits_2025": 54,
+   "permits_2026": 31,
+   "total": 85,
+   "rank": 23
+  },
+  {
+   "brand": "KPMG",
+   "category": "Consulting (mostly non-tech permits)",
+   "relevance": 1,
+   "entities": [
+    "KPMG"
+   ],
+   "permits_2025": 44,
+   "permits_2026": 40,
+   "total": 84,
+   "rank": 24
+  },
+  {
+   "brand": "J.P. Morgan",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "J.P. Morgan SE",
+    "Chase Paymentech Europe Limited"
+   ],
+   "permits_2025": 28,
+   "permits_2026": 49,
+   "total": 77,
+   "rank": 25
+  },
+  {
+   "brand": "IBM",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "IBM Global Services Limited",
+    "IBM Ireland Product Distribution Limited",
+    "IBM Ireland Limited"
+   ],
+   "permits_2025": 32,
+   "permits_2026": 41,
+   "total": 73,
+   "rank": 26
+  },
+  {
+   "brand": "Fidelity Investments (FISC)",
+   "category": "Payments & fintech",
+   "relevance": 3,
+   "entities": [
+    "FISC-Ireland Limited",
+    "FISC Ireland Limited"
+   ],
+   "permits_2025": 29,
+   "permits_2026": 42,
+   "total": 71,
+   "rank": 27
+  },
+  {
+   "brand": "BNY",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "BNY Mellon Fund Services (Ireland) DAC",
+    "BNY Mellon Fund Services (Ireland) Designated Activity Company"
+   ],
+   "permits_2025": 28,
+   "permits_2026": 43,
+   "total": 71,
+   "rank": 28
+  },
+  {
+   "brand": "Cpl Solutions",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "CPL Solutions Limited"
+   ],
+   "permits_2025": 62,
+   "permits_2026": 8,
+   "total": 70,
+   "rank": 29
+  },
+  {
+   "brand": "ServiceNow",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "ServiceNow Ireland Limited",
+    "ServiceNow International Treasury Limited"
+   ],
+   "permits_2025": 40,
+   "permits_2026": 27,
+   "total": 67,
+   "rank": 30
+  },
+  {
+   "brand": "PwC",
+   "category": "Consulting (mostly non-tech permits)",
+   "relevance": 1,
+   "entities": [
+    "PricewaterhouseCoopers",
+    "PricewaterhouseCoopers Services"
+   ],
+   "permits_2025": 33,
+   "permits_2026": 33,
+   "total": 66,
+   "rank": 31
+  },
+  {
+   "brand": "Huawei",
+   "category": "Telecoms & networks",
+   "relevance": 2,
+   "entities": [
+    "Huawei Technologies (Ireland) Co Ltd",
+    "Aspiegel SE"
+   ],
+   "permits_2025": 45,
+   "permits_2026": 19,
+   "total": 64,
+   "rank": 32
+  },
+  {
+   "brand": "Bank of America",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "Bank of America Europe Designated Activity Company",
+    "Bank of America Europe DAC"
+   ],
+   "permits_2025": 31,
+   "permits_2026": 33,
+   "total": 64,
+   "rank": 33
+  },
+  {
+   "brand": "eBay",
+   "category": "Big Tech & cloud",
+   "relevance": 2,
+   "entities": [
+    "Ebay Europe Services Limited",
+    "eBay Europe Services Limited"
+   ],
+   "permits_2025": 31,
+   "permits_2026": 32,
+   "total": 63,
+   "rank": 34
+  },
+  {
+   "brand": "Ericsson",
+   "category": "Telecoms & networks",
+   "relevance": 3,
+   "entities": [
+    "L.M. Ericsson Limited",
+    "Ericsson Software Technology Ireland Limited"
+   ],
+   "permits_2025": 41,
+   "permits_2026": 20,
+   "total": 61,
+   "rank": 35
+  },
+  {
+   "brand": "AIB",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "Allied Irish Banks, Public Limited Company"
+   ],
+   "permits_2025": 49,
+   "permits_2026": 9,
+   "total": 58,
+   "rank": 36
+  },
+  {
+   "brand": "Citi",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "Citibank Europe Public Limited Company",
+    "Citibank N.A."
+   ],
+   "permits_2025": 34,
+   "permits_2026": 23,
+   "total": 57,
+   "rank": 37
+  },
+  {
+   "brand": "Emerson",
+   "category": "Other tech",
+   "relevance": 1,
+   "entities": [
+    "Emerson Automation Solutions Ireland Limited"
+   ],
+   "permits_2025": 35,
+   "permits_2026": 21,
+   "total": 56,
+   "rank": 38
+  },
+  {
+   "brand": "Capgemini",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Capgemini Ireland Limited"
+   ],
+   "permits_2025": 37,
+   "permits_2026": 19,
+   "total": 56,
+   "rank": 39
+  },
+  {
+   "brand": "KLA",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "KLA-Tencor Ireland Limited"
+   ],
+   "permits_2025": 8,
+   "permits_2026": 47,
+   "total": 55,
+   "rank": 40
+  },
+  {
+   "brand": "Workday",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Workday Limited"
+   ],
+   "permits_2025": 36,
+   "permits_2026": 18,
+   "total": 54,
+   "rank": 41
+  },
+  {
+   "brand": "State Street",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "State Street Technology (Ireland) Ltd",
+    "State Street International (Ireland) Limited",
+    "State Street Technology (Ireland) Limited"
+   ],
+   "permits_2025": 26,
+   "permits_2026": 24,
+   "total": 50,
+   "rank": 42
+  },
+  {
+   "brand": "Bank of Ireland",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "Bank of Ireland Group PLC"
+   ],
+   "permits_2025": 32,
+   "permits_2026": 17,
+   "total": 49,
+   "rank": 43
+  },
+  {
+   "brand": "MongoDB",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "MongoDB Limited"
+   ],
+   "permits_2025": 8,
+   "permits_2026": 41,
+   "total": 49,
+   "rank": 44
+  },
+  {
+   "brand": "Red Hat",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Red Hat Limited"
+   ],
+   "permits_2025": 31,
+   "permits_2026": 16,
+   "total": 47,
+   "rank": 45
+  },
+  {
+   "brand": "Tokyo Electron",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "Tokyo Electron Europe Limited"
+   ],
+   "permits_2025": 16,
+   "permits_2026": 30,
+   "total": 46,
+   "rank": 46
+  },
+  {
+   "brand": "PTSB",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "Permanent TSB Public Limited Company"
+   ],
+   "permits_2025": 27,
+   "permits_2026": 19,
+   "total": 46,
+   "rank": 47
+  },
+  {
+   "brand": "NTT DATA",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "NTT Data UK Limited",
+    "NTT DATA Services Ireland Limited"
+   ],
+   "permits_2025": 32,
+   "permits_2026": 12,
+   "total": 44,
+   "rank": 48
+  },
+  {
+   "brand": "Citco",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "Citco Fund Services (Ireland) Limited",
+    "Citco Technology Management Ireland Limited",
+    "Citco Custody Limited",
+    "Citco Bank Nederland NV Dublin Branch"
+   ],
+   "permits_2025": 22,
+   "permits_2026": 20,
+   "total": 42,
+   "rank": 49
+  },
+  {
+   "brand": "Dell Technologies",
+   "category": "Semiconductors & hardware",
+   "relevance": 3,
+   "entities": [
+    "EMC Information Systems International Unlimited Company",
+    "Dell Products Unlimited Company"
+   ],
+   "permits_2025": 12,
+   "permits_2026": 27,
+   "total": 39,
+   "rank": 50
+  },
+  {
+   "brand": "Fiserv",
+   "category": "Payments & fintech",
+   "relevance": 3,
+   "entities": [
+    "Fiserv Solutions (Europe) Limited"
+   ],
+   "permits_2025": 19,
+   "permits_2026": 18,
+   "total": 37,
+   "rank": 51
+  },
+  {
+   "brand": "NetApp",
+   "category": "Semiconductors & hardware",
+   "relevance": 3,
+   "entities": [
+    "NetApp Ireland Limited",
+    "NetApp Ireland Unlimited Company"
+   ],
+   "permits_2025": 32,
+   "permits_2026": 4,
+   "total": 36,
+   "rank": 52
+  },
+  {
+   "brand": "Intercom",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Intercom R&D Unlimited Company"
+   ],
+   "permits_2025": 25,
+   "permits_2026": 11,
+   "total": 36,
+   "rank": 53
+  },
+  {
+   "brand": "HubSpot",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "HubSpot Ireland Limited"
+   ],
+   "permits_2025": 25,
+   "permits_2026": 9,
+   "total": 34,
+   "rank": 54
+  },
+  {
+   "brand": "Kaseya",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Kaseya Limited"
+   ],
+   "permits_2025": 24,
+   "permits_2026": 9,
+   "total": 33,
+   "rank": 55
+  },
+  {
+   "brand": "SAP",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "SAP Service and Support Centre (Ireland) Limited",
+    "SAP Ireland Limited"
+   ],
+   "permits_2025": 18,
+   "permits_2026": 13,
+   "total": 31,
+   "rank": 56
+  },
+  {
+   "brand": "Cubic Telecom",
+   "category": "Telecoms & networks",
+   "relevance": 3,
+   "entities": [
+    "Cubic Telecom Limited"
+   ],
+   "permits_2025": 12,
+   "permits_2026": 17,
+   "total": 29,
+   "rank": 57
+  },
+  {
+   "brand": "General Motors IT",
+   "category": "Other tech",
+   "relevance": 2,
+   "entities": [
+    "General Motors IT Services (Ireland) Limited",
+    "General Motors IT Services (Ireland) Ltd"
+   ],
+   "permits_2025": 18,
+   "permits_2026": 11,
+   "total": 29,
+   "rank": 58
+  },
+  {
+   "brand": "Bloomberg",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "Bloomberg Data Management Services Limited"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 22,
+   "total": 28,
+   "rank": 59
+  },
+  {
+   "brand": "Infineon",
+   "category": "Semiconductors & hardware",
+   "relevance": 1,
+   "entities": [
+    "Infineon Technologies Semiconductor Ireland Ltd.",
+    "Infineon Technologies Semiconductor Ireland Limited",
+    "Infineon Technologies Ireland Limited"
+   ],
+   "permits_2025": 13,
+   "permits_2026": 13,
+   "total": 26,
+   "rank": 60
+  },
+  {
+   "brand": "Version 1",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Version 1 Software Limited"
+   ],
+   "permits_2025": 12,
+   "permits_2026": 14,
+   "total": 26,
+   "rank": 61
+  },
+  {
+   "brand": "Cisco",
+   "category": "Telecoms & networks",
+   "relevance": 3,
+   "entities": [
+    "Cisco Systems Internetworking (Ireland) Limited",
+    "Cisco Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 22,
+   "total": 24,
+   "rank": 62
+  },
+  {
+   "brand": "Cadence",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "Cadence Design Systems (Ireland) Limited"
+   ],
+   "permits_2025": 14,
+   "permits_2026": 10,
+   "total": 24,
+   "rank": 63
+  },
+  {
+   "brand": "Toast",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Toasttab Ireland Limited"
+   ],
+   "permits_2025": 11,
+   "permits_2026": 12,
+   "total": 23,
+   "rank": 64
+  },
+  {
+   "brand": "Susquehanna (SIG)",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "Susquehanna International Group Limited",
+    "Susquehanna Dublin Limited"
+   ],
+   "permits_2025": 10,
+   "permits_2026": 13,
+   "total": 23,
+   "rank": 65
+  },
+  {
+   "brand": "Motorola Solutions",
+   "category": "Telecoms & networks",
+   "relevance": 3,
+   "entities": [
+    "Motorola Solutions Ireland Ltd.",
+    "Motorola Solutions Ireland Ltd"
+   ],
+   "permits_2025": 20,
+   "permits_2026": 2,
+   "total": 22,
+   "rank": 66
+  },
+  {
+   "brand": "Lionbridge",
+   "category": "IT services & outsourcing",
+   "relevance": 1,
+   "entities": [
+    "Lionbridge Digital Development Limited"
+   ],
+   "permits_2025": 5,
+   "permits_2026": 17,
+   "total": 22,
+   "rank": 67
+  },
+  {
+   "brand": "Liberty IT",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "Liberty Information Technology Limited"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 16,
+   "total": 22,
+   "rank": 68
+  },
+  {
+   "brand": "Clearstream",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 1,
+   "entities": [
+    "Clearstream Technologies Limited",
+    "Clearstream Fund Centre S.A., Cork Branch"
+   ],
+   "permits_2025": 16,
+   "permits_2026": 5,
+   "total": 21,
+   "rank": 69
+  },
+  {
+   "brand": "Activision Blizzard",
+   "category": "Gaming",
+   "relevance": 2,
+   "entities": [
+    "Activision Blizzard Ireland Ltd"
+   ],
+   "permits_2025": 12,
+   "permits_2026": 7,
+   "total": 19,
+   "rank": 70
+  },
+  {
+   "brand": "Alibaba Cloud (Sparkoo)",
+   "category": "Big Tech & cloud",
+   "relevance": 2,
+   "entities": [
+    "Sparkoo Technologies Ireland Co Limited"
+   ],
+   "permits_2025": 16,
+   "permits_2026": 3,
+   "total": 19,
+   "rank": 71
+  },
+  {
+   "brand": "Logitech",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "Logitech Ireland Services Limited"
+   ],
+   "permits_2025": 7,
+   "permits_2026": 11,
+   "total": 18,
+   "rank": 72
+  },
+  {
+   "brand": "Isoft Digital Transformation",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "Isoft Digital Transformation Limited"
+   ],
+   "permits_2025": 8,
+   "permits_2026": 10,
+   "total": 18,
+   "rank": 73
+  },
+  {
+   "brand": "Yahoo",
+   "category": "Big Tech & cloud",
+   "relevance": 2,
+   "entities": [
+    "Yahoo International Limited",
+    "Yahoo EMEA Limited"
+   ],
+   "permits_2025": 15,
+   "permits_2026": 3,
+   "total": 18,
+   "rank": 74
+  },
+  {
+   "brand": "Guidewire",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Guidewire Software (Ireland) Limited"
+   ],
+   "permits_2025": 7,
+   "permits_2026": 11,
+   "total": 18,
+   "rank": 75
+  },
+  {
+   "brand": "2K Games",
+   "category": "Gaming",
+   "relevance": 2,
+   "entities": [
+    "2K Games Dublin Limited"
+   ],
+   "permits_2025": 8,
+   "permits_2026": 9,
+   "total": 17,
+   "rank": 76
+  },
+  {
+   "brand": "AMD (Xilinx)",
+   "category": "Semiconductors & hardware",
+   "relevance": 1,
+   "entities": [
+    "Xilinx Ireland Unlimited Company"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 11,
+   "total": 17,
+   "rank": 77
+  },
+  {
+   "brand": "PayPal",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "PayPal Europe Services Limited"
+   ],
+   "permits_2025": 8,
+   "permits_2026": 9,
+   "total": 17,
+   "rank": 78
+  },
+  {
+   "brand": "Remote Management Technology",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "Remote Management Technology Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 13,
+   "total": 17,
+   "rank": 79
+  },
+  {
+   "brand": "Arista Networks",
+   "category": "Telecoms & networks",
+   "relevance": 3,
+   "entities": [
+    "Arista Networks Limited",
+    "Arista Technology Ireland Unlimited Company"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 10,
+   "total": 16,
+   "rank": 80
+  },
+  {
+   "brand": "Remitly",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "Remitly Europe Limited"
+   ],
+   "permits_2025": 16,
+   "permits_2026": 0,
+   "total": 16,
+   "rank": 81
+  },
+  {
+   "brand": "LinkedIn",
+   "category": "Big Tech & cloud",
+   "relevance": 2,
+   "entities": [
+    "LinkedIn Ireland Unlimited Company"
+   ],
+   "permits_2025": 13,
+   "permits_2026": 3,
+   "total": 16,
+   "rank": 82
+  },
+  {
+   "brand": "Planet Payment",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "Planet Payment Group Holdings Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 14,
+   "total": 16,
+   "rank": 83
+  },
+  {
+   "brand": "Workhuman",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Globoforce Limited"
+   ],
+   "permits_2025": 11,
+   "permits_2026": 4,
+   "total": 15,
+   "rank": 84
+  },
+  {
+   "brand": "Vodafone",
+   "category": "Telecoms & networks",
+   "relevance": 2,
+   "entities": [
+    "Vodafone Ireland Limited"
+   ],
+   "permits_2025": 9,
+   "permits_2026": 6,
+   "total": 15,
+   "rank": 85
+  },
+  {
+   "brand": "ASML",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "ASML Ireland Limited"
+   ],
+   "permits_2025": 9,
+   "permits_2026": 6,
+   "total": 15,
+   "rank": 86
+  },
+  {
+   "brand": "Oracle",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Oracle EMEA Limited",
+    "Oracle Cerner Ireland Limited",
+    "Oracle Financial Services Software B.V",
+    "Oracle Emea Ltd",
+    "Oracle Sovereign Cloud Ireland Limited"
+   ],
+   "permits_2025": 7,
+   "permits_2026": 7,
+   "total": 14,
+   "rank": 87
+  },
+  {
+   "brand": "Genpact",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "Genpact Ireland Private Limited"
+   ],
+   "permits_2025": 7,
+   "permits_2026": 7,
+   "total": 14,
+   "rank": 88
+  },
+  {
+   "brand": "SOTI",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "SOTI Ireland Ltd"
+   ],
+   "permits_2025": 10,
+   "permits_2026": 4,
+   "total": 14,
+   "rank": 89
+  },
+  {
+   "brand": "GlobalLogic",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "GlobalLogic Software and Technology Ireland Limited"
+   ],
+   "permits_2025": 10,
+   "permits_2026": 4,
+   "total": 14,
+   "rank": 90
+  },
+  {
+   "brand": "Expleo",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "Expleo Technology Ireland Limited"
+   ],
+   "permits_2025": 5,
+   "permits_2026": 8,
+   "total": 13,
+   "rank": 91
+  },
+  {
+   "brand": "ASM",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "ASM Service Support Ireland Ltd",
+    "Asm Services & Support Ireland Limited"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 7,
+   "total": 13,
+   "rank": 92
+  },
+  {
+   "brand": "Astreya",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Astreya Consultancy Ireland Limited"
+   ],
+   "permits_2025": 5,
+   "permits_2026": 7,
+   "total": 12,
+   "rank": 93
+  },
+  {
+   "brand": "Three Ireland",
+   "category": "Telecoms & networks",
+   "relevance": 2,
+   "entities": [
+    "Three Ireland (Hutchison) Limited"
+   ],
+   "permits_2025": 9,
+   "permits_2026": 3,
+   "total": 12,
+   "rank": 94
+  },
+  {
+   "brand": "Neueda",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "Neueda Technologies FS Limited",
+    "Neueda Technologies Ireland Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 8,
+   "total": 12,
+   "rank": 95
+  },
+  {
+   "brand": "Spanish Point Technologies",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "Spanish Point Investments Limited",
+    "Spanish Point Technologies Limited"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 6,
+   "total": 12,
+   "rank": 96
+  },
+  {
+   "brand": "Sun Life",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 1,
+   "entities": [
+    "Sun Life Information Services Ireland Limited"
+   ],
+   "permits_2025": 5,
+   "permits_2026": 7,
+   "total": 12,
+   "rank": 97
+  },
+  {
+   "brand": "DXC Technology",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Global EntServ Solutions Ireland Limited",
+    "Global EntServ Solutions Galway Limited"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 5,
+   "total": 11,
+   "rank": 98
+  },
+  {
+   "brand": "Northern Trust",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 2,
+   "entities": [
+    "Northern Trust Management Services (Ireland) Ltd"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 5,
+   "total": 11,
+   "rank": 99
+  },
+  {
+   "brand": "Telus Digital",
+   "category": "IT services & outsourcing",
+   "relevance": 2,
+   "entities": [
+    "Telus International AI Limited",
+    "TELUS International Services Limited - Reseller"
+   ],
+   "permits_2025": 11,
+   "permits_2026": 0,
+   "total": 11,
+   "rank": 100
+  },
+  {
+   "brand": "Squarespace",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Squarespace Ireland Limited"
+   ],
+   "permits_2025": 8,
+   "permits_2026": 3,
+   "total": 11,
+   "rank": 101
+  },
+  {
+   "brand": "SITA",
+   "category": "Other tech",
+   "relevance": 3,
+   "entities": [
+    "SITA Information Networking Computing Ireland Limited"
+   ],
+   "permits_2025": 9,
+   "permits_2026": 2,
+   "total": 11,
+   "rank": 102
+  },
+  {
+   "brand": "HP",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "HP Technology Ireland Limited",
+    "Hewlett-Packard Galway Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 7,
+   "total": 10,
+   "rank": 103
+  },
+  {
+   "brand": "DocuSign",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "DocuSign International (EMEA) Limited"
+   ],
+   "permits_2025": 5,
+   "permits_2026": 5,
+   "total": 10,
+   "rank": 104
+  },
+  {
+   "brand": "Epic Systems",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Epic Healthcare Systems Ireland Limited"
+   ],
+   "permits_2025": 0,
+   "permits_2026": 10,
+   "total": 10,
+   "rank": 105
+  },
+  {
+   "brand": "Synopsys",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "Synopsys International Ltd"
+   ],
+   "permits_2025": 7,
+   "permits_2026": 2,
+   "total": 9,
+   "rank": 106
+  },
+  {
+   "brand": "Arm",
+   "category": "Semiconductors & hardware",
+   "relevance": 1,
+   "entities": [
+    "Arm Ireland Limited"
+   ],
+   "permits_2025": 5,
+   "permits_2026": 3,
+   "total": 8,
+   "rank": 107
+  },
+  {
+   "brand": "Aon",
+   "category": "Banking & funds (tech teams)",
+   "relevance": 1,
+   "entities": [
+    "Aon Broking Technology Limited"
+   ],
+   "permits_2025": 7,
+   "permits_2026": 0,
+   "total": 7,
+   "rank": 108
+  },
+  {
+   "brand": "Ryanair Labs",
+   "category": "Other tech",
+   "relevance": 1,
+   "entities": [
+    "Ryanair Labs Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 3,
+   "total": 7,
+   "rank": 109
+  },
+  {
+   "brand": "Autodesk",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Autodesk Ireland Operations Unlimited Company"
+   ],
+   "permits_2025": 6,
+   "permits_2026": 1,
+   "total": 7,
+   "rank": 110
+  },
+  {
+   "brand": "Datadog",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Datadog Ireland Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 3,
+   "total": 7,
+   "rank": 111
+  },
+  {
+   "brand": "Afiniti",
+   "category": "Software & SaaS",
+   "relevance": 1,
+   "entities": [
+    "Afiniti AI Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 2,
+   "total": 6,
+   "rank": 112
+  },
+  {
+   "brand": "Bentley Systems",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Bentley Systems International Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 3,
+   "total": 6,
+   "rank": 113
+  },
+  {
+   "brand": "LexisNexis Risk",
+   "category": "Software & SaaS",
+   "relevance": 1,
+   "entities": [
+    "Lexisnexis Risk Solutions (Europe) Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 2,
+   "total": 6,
+   "rank": 114
+  },
+  {
+   "brand": "Tech Mahindra",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "Tech Mahindra Limited"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 5,
+   "total": 6,
+   "rank": 115
+  },
+  {
+   "brand": "Nitro",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Nitro Software EMEA Ltd",
+    "Nitro Software EMEA Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 3,
+   "total": 6,
+   "rank": 116
+  },
+  {
+   "brand": "Twilio",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Twilio Ireland Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 3,
+   "total": 6,
+   "rank": 117
+  },
+  {
+   "brand": "Equinix",
+   "category": "Data centres",
+   "relevance": 3,
+   "entities": [
+    "Equinix (Ireland) Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 4,
+   "total": 6,
+   "rank": 118
+  },
+  {
+   "brand": "Entrust",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Entrust Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 3,
+   "total": 6,
+   "rank": 119
+  },
+  {
+   "brand": "Cloudera",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Cloudera International Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 3,
+   "total": 6,
+   "rank": 120
+  },
+  {
+   "brand": "Digital Realty",
+   "category": "Data centres",
+   "relevance": 3,
+   "entities": [
+    "Digital Realty (Management Company) Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 3,
+   "total": 5,
+   "rank": 121
+  },
+  {
+   "brand": "Zendesk",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Zendesk International Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 1,
+   "total": 5,
+   "rank": 122
+  },
+  {
+   "brand": "SolarWinds",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "SolarWinds Software Europe DAC"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 2,
+   "total": 5,
+   "rank": 123
+  },
+  {
+   "brand": "Interactive Brokers",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "Interactive Brokers Ireland Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 1,
+   "total": 5,
+   "rank": 124
+  },
+  {
+   "brand": "Indeed",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Indeed Ireland Operations Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 1,
+   "total": 5,
+   "rank": 125
+  },
+  {
+   "brand": "ICE Data Services",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "ICE Data Services Ireland Limited"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 4,
+   "total": 5,
+   "rank": 126
+  },
+  {
+   "brand": "Block (Square)",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "SquareUp International Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 1,
+   "total": 5,
+   "rank": 127
+  },
+  {
+   "brand": "Zalando",
+   "category": "Big Tech & cloud",
+   "relevance": 1,
+   "entities": [
+    "Zalando Ireland Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 2,
+   "total": 5,
+   "rank": 128
+  },
+  {
+   "brand": "Microchip",
+   "category": "Semiconductors & hardware",
+   "relevance": 1,
+   "entities": [
+    "Microchip Technology Ireland Limited"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 3,
+   "total": 4,
+   "rank": 129
+  },
+  {
+   "brand": "Okta",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Okta Identity Ireland Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 1,
+   "total": 4,
+   "rank": 130
+  },
+  {
+   "brand": "Coinbase",
+   "category": "Payments & fintech",
+   "relevance": 2,
+   "entities": [
+    "Coinbase Ireland Limited"
+   ],
+   "permits_2025": 4,
+   "permits_2026": 0,
+   "total": 4,
+   "rank": 131
+  },
+  {
+   "brand": "LTIMindtree",
+   "category": "IT services & outsourcing",
+   "relevance": 3,
+   "entities": [
+    "LTI Mindtree Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 2,
+   "total": 4,
+   "rank": 132
+  },
+  {
+   "brand": "Broadcom (VMware)",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "VMware International Unlimited Company"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 1,
+   "total": 4,
+   "rank": 133
+  },
+  {
+   "brand": "Slalom",
+   "category": "IT services & outsourcing",
+   "relevance": 1,
+   "entities": [
+    "Slalom Technology and Management Solutions Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 1,
+   "total": 4,
+   "rank": 134
+  },
+  {
+   "brand": "Wayflyer",
+   "category": "Payments & fintech",
+   "relevance": 1,
+   "entities": [
+    "Wayflyer Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 2,
+   "total": 4,
+   "rank": 135
+  },
+  {
+   "brand": "Pinterest",
+   "category": "Big Tech & cloud",
+   "relevance": 1,
+   "entities": [
+    "Pinterest Europe Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 1,
+   "total": 4,
+   "rank": 136
+  },
+  {
+   "brand": "Klaviyo",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Klaviyo Ireland Limited"
+   ],
+   "permits_2025": 0,
+   "permits_2026": 4,
+   "total": 4,
+   "rank": 137
+  },
+  {
+   "brand": "Wix",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Wix Online Platforms Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 0,
+   "total": 3,
+   "rank": 138
+  },
+  {
+   "brand": "Notion",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Notion Labs, Ireland Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 1,
+   "total": 3,
+   "rank": 139
+  },
+  {
+   "brand": "Snowflake",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Snowflake Computing Ireland Limited"
+   ],
+   "permits_2025": 3,
+   "permits_2026": 0,
+   "total": 3,
+   "rank": 140
+  },
+  {
+   "brand": "Fenergo",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Fenergo Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 1,
+   "total": 3,
+   "rank": 141
+  },
+  {
+   "brand": "Anthropic",
+   "category": "Big Tech & cloud",
+   "relevance": 3,
+   "entities": [
+    "Anthropic Ireland Limited"
+   ],
+   "permits_2025": 0,
+   "permits_2026": 3,
+   "total": 3,
+   "rank": 142
+  },
+  {
+   "brand": "CrowdStrike",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "CrowdStrike Ireland Limited"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 0,
+   "total": 2,
+   "rank": 143
+  },
+  {
+   "brand": "Flipdish",
+   "category": "Software & SaaS",
+   "relevance": 1,
+   "entities": [
+    "Flipdish Ltd"
+   ],
+   "permits_2025": 2,
+   "permits_2026": 0,
+   "total": 2,
+   "rank": 144
+  },
+  {
+   "brand": "GitLab",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "GitLab Ireland Limited"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 1,
+   "total": 2,
+   "rank": 145
+  },
+  {
+   "brand": "OpenAI",
+   "category": "Big Tech & cloud",
+   "relevance": 3,
+   "entities": [
+    "OpenAI Ireland Limited"
+   ],
+   "permits_2025": 0,
+   "permits_2026": 2,
+   "total": 2,
+   "rank": 146
+  },
+  {
+   "brand": "HPE",
+   "category": "Semiconductors & hardware",
+   "relevance": 2,
+   "entities": [
+    "Hewlett Packard Enterprise Ireland Limited"
+   ],
+   "permits_2025": 0,
+   "permits_2026": 2,
+   "total": 2,
+   "rank": 147
+  },
+  {
+   "brand": "Adobe",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Adobe Systems Software Ireland Limited"
+   ],
+   "permits_2025": 0,
+   "permits_2026": 2,
+   "total": 2,
+   "rank": 148
+  },
+  {
+   "brand": "Uber",
+   "category": "Big Tech & cloud",
+   "relevance": 1,
+   "entities": [
+    "Uber Eats Ireland Limited"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 0,
+   "total": 1,
+   "rank": 149
+  },
+  {
+   "brand": "Personio",
+   "category": "Software & SaaS",
+   "relevance": 1,
+   "entities": [
+    "Personio Group SE"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 0,
+   "total": 1,
+   "rank": 150
+  },
+  {
+   "brand": "Vanta",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Vanta Technology Ireland I Limited"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 0,
+   "total": 1,
+   "rank": 151
+  },
+  {
+   "brand": "Dropbox",
+   "category": "Software & SaaS",
+   "relevance": 2,
+   "entities": [
+    "Dropbox International Unlimited Company"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 0,
+   "total": 1,
+   "rank": 152
+  },
+  {
+   "brand": "Airbnb",
+   "category": "Big Tech & cloud",
+   "relevance": 1,
+   "entities": [
+    "Airbnb Ireland Unlimited Company"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 0,
+   "total": 1,
+   "rank": 153
+  },
+  {
+   "brand": "Tines",
+   "category": "Software & SaaS",
+   "relevance": 3,
+   "entities": [
+    "Tines Security Services Limited,"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 0,
+   "total": 1,
+   "rank": 154
+  },
+  {
+   "brand": "ZoomInfo",
+   "category": "Software & SaaS",
+   "relevance": 1,
+   "entities": [
+    "ZoomInfo Ireland Limited"
+   ],
+   "permits_2025": 1,
+   "permits_2026": 0,
+   "total": 1,
+   "rank": 155
+  }
+ ],
+ "unidentified": [
+  {
+   "entity": "Software Labs Campus Unlimited Company",
+   "permits_2025": 127,
+   "permits_2026": 64
+  },
+  {
+   "entity": "Costern Unlimited Company",
+   "permits_2025": 128,
+   "permits_2026": 224
+  }
+ ]
+}

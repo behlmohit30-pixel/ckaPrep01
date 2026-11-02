@@ -1,0 +1,11 @@
+{
+ "_note": "EXAMPLE. Copy to private/referrers.json.",
+ "referrers": {
+  "ExampleCorp": [
+   "Sam (SRE)"
+  ],
+  "Mastercard": [
+   "Pat (SRE)"
+  ]
+ }
+}
