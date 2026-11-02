@@ -36,6 +36,10 @@ copy config\referrers.example.json private\referrers.json
 python -I -m unittest discover -s tests                    # 14 offline tests
 ```
 
+On Windows, `jh.cmd` wraps `python -I jh.py` (so `jh today` works) and uses
+`D:\MoBe docs\CareerIreland\JobHunt\v3_private`, `v3_state` and `v3_out` when that folder exists.
+`setup_task.ps1` registers the 09:00 and 17:00 runs (`run_daily.cmd`), catching up when the PC was off.
+
 `private/`, `state/` and `out/` are git-ignored. Your facts, contacts and history never go into the repository.
 Optional: put LinkedIn's data export `Connections.csv` in `private/` to find referral paths automatically.
 
