@@ -1,15 +1,13 @@
-# IT Summit 2027: Inter-University Hackathon
+# Limerick IT Summit 2027: Student Hackathon Proposal
 
-Planning pack prepared by **Mohit Behl, Volunteer Coordinator, IT Summit 2027** (draft v1.2, November 2026).
-The hackathon is planned as a student strand of the **Limerick IT Summit 2027**.
+Prepared by **Mohit Behl, Volunteer Coordinator, Limerick IT Summit 2027**, for the summit organisers (draft v2.0, November 2026).
+
+The proposal adds a student hackathon to Limerick IT Summit 2027, "The Automation Toolkit" (Thursday 25 February 2027, Dell Technologies, Limerick). The Grand Finale runs on Saturday 20 – Sunday 21 February 2027, and the winning teams show their work at the summit.
 
 | File | What it is | Audience |
 |---|---|---|
-| `IT_Summit_2027_Hackathon_Report.docx` (+ `.pdf`) | 27-page planning report: the host event (Limerick IT Summit), review of the reference event, 2025–26 tech and regulatory context, concept and Trust Triad, 12 domains plus an SME Challenge Bank, rounds and dated timeline, finale run-of-show and summit-day showcase, judging, IP and Irish compliance, workstreams, budget framework, risks, KPIs, decisions needed, and appendices (Round 1 guidelines, logistics checklist, sources) | Organising committee, summit organisers, finale host |
-| `IT_Summit_2027_Hackathon_Proposal.pptx` (+ `.pdf`) | 19-slide committee deck with speaker notes | Committee meeting |
-| `IT_Summit_2027_Round1_Idea_Template.pptx` | 6-slide idea-submission template for participating teams | Participants |
+| `Limerick_IT_Summit_2027_Hackathon_Proposal_Report.docx` (+ `.pdf`) | 23-page proposal: summit fit, technology and regulatory context, the Trust Triad, 11 challenge tracks and the SME Challenge Bank, rounds and timeline, finale run-of-show and summit-day showcase, judging, rules and compliance, workstreams, resources, risks, success measures, decisions requested, and appendices | Summit organisers |
+| `Limerick_IT_Summit_2027_Hackathon_Proposal_Deck.pptx` (+ `.pdf`) | 19-slide presentation with speaker notes | Summit organisers |
+| `Limerick_IT_Summit_2027_Round1_Idea_Template.pptx` | 6-slide Round 1 idea template | Participating teams |
 
-Notes:
-- All names and branding from the source material (a completed inter-college hackathon in India) have been removed.
-- The 2027 summit date had not been announced; the plan assumes **Thursday 4 March 2027**, with the Grand Finale on the weekend before (27–28 February 2027). Every date moves with the confirmed summit date.
-- Facts about the summit come from public coverage of the 2025 and 2026 editions; the summit website could not be opened when this pack was drafted. Regulatory facts were checked on 4 November 2026 (report Appendix C).
+Summit facts come from the summit website (captured 4 November 2026). Regulatory facts were checked on 4 November 2026; see Appendix C of the report. No pricing is included.
