@@ -1,6 +1,6 @@
 # IT Summit 2027: Inter-University Hackathon
 
-Planning pack prepared by **Mohit Behl, Volunteer Head, IT Summit 2027** (draft v1.0, November 2026).
+Planning pack prepared by **Mohit Behl, Volunteer Coordinator, IT Summit 2027** (draft v1.1, November 2026).
 
 | File | What it is | Audience |
 |---|---|---|
